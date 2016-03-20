@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 03/07/2016 8:22:27 PM -->
+<GameData>
+	<!-- give them a free starting warrior so they can explore a bit (and to protect their first settler)
+	<Civilization_FreeUnits>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<UnitClassType>UNITCLASS_WARRIOR</UnitClassType>
+			<UnitAIType>UNITAI_ATTACK</UnitAIType>
+			<Count>1</Count>
+		</Row>
+	</Civilization_FreeUnits>
+	-->
+</GameData>

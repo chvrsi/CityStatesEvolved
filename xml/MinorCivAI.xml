@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 08/24/2015 6:32:13 PM -->
+<GameData>
+	<!-- AI changes -->
+	<AICityStrategies>
+		<!-- uncripple cities -->
+		<Update>
+			<Where Type="AICITYSTRATEGY_CAPITAL_NEED_SETTLER"/>
+			<Set>
+				<NoMinorCivs>0</NoMinorCivs>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="AICITYSTRATEGY_CAPITAL_UNDER_THREAT"/>
+			<Set>
+				<NoMinorCivs>0</NoMinorCivs>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="AICITYSTRATEGY_MEDIUM_CITY_HIGH_DIFFICULTY"/>
+			<Set>
+				<NoMinorCivs>0</NoMinorCivs>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="AICITYSTRATEGY_ORIGINAL_CAPITAL"/>
+			<Set>
+				<NoMinorCivs>0</NoMinorCivs>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="AICITYSTRATEGY_KEY_SCIENCE_CITY"/>
+			<Set>
+				<NoMinorCivs>0</NoMinorCivs>
+			</Set>
+		</Update>
+	</AICityStrategies>
+	<AIMilitaryStrategies>
+		<!-- uncripple military -->
+		<Update>
+			<Set>
+				<NoMinorCivs>0</NoMinorCivs>
+			</Set>
+		</Update>
+	</AIMilitaryStrategies>
+	<AIEconomicStrategies>
+		<!-- scouting -->
+		<Update>
+			<Where Type="ECONOMICAISTRATEGY_NEED_RECON"/>
+			<Set>
+				<NoMinorCivs>0</NoMinorCivs>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="ECONOMICAISTRATEGY_ENOUGH_RECON"/>
+			<Set>
+				<NoMinorCivs>0</NoMinorCivs>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="ECONOMICAISTRATEGY_NEED_RECON_SEA"/>
+			<Set>
+				<NoMinorCivs>0</NoMinorCivs>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="ECONOMICAISTRATEGY_ENOUGH_RECON_SEA"/>
+			<Set>
+				<NoMinorCivs>0</NoMinorCivs>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="ECONOMICAISTRATEGY_REALLY_NEED_RECON_SEA"/>
+			<Set>
+				<NoMinorCivs>0</NoMinorCivs>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="ECONOMICAISTRATEGY_NAVAL_MAP"/>
+			<Set>
+				<NoMinorCivs>0</NoMinorCivs>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="ECONOMICAISTRATEGY_OFFSHORE_EXPANSION_MAP"/>
+			<Set>
+				<NoMinorCivs>0</NoMinorCivs>
+			</Set>
+		</Update>
+		<!-- expansion -->
+		<Update>
+			<Where Type="ECONOMICAISTRATEGY_FOUND_CITY"/>
+			<Set>
+				<NoMinorCivs>0</NoMinorCivs>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="ECONOMICAISTRATEGY_EARLY_EXPANSION"/>
+			<Set>
+				<NoMinorCivs>0</NoMinorCivs>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="ECONOMICAISTRATEGY_ENOUGH_EXPANSION"/>
+			<Set>
+				<NoMinorCivs>0</NoMinorCivs>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="ECONOMICAISTRATEGY_EXPAND_TO_OTHER_CONTINENTS"/>
+			<Set>
+				<NoMinorCivs>0</NoMinorCivs>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="ECONOMICAISTRATEGY_REALLY_EXPAND_TO_OTHER_CONTINENTS"/>
+			<Set>
+				<NoMinorCivs>0</NoMinorCivs>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="ECONOMICAISTRATEGY_EXPAND_LIKE_CRAZY"/>
+			<Set>
+				<NoMinorCivs>0</NoMinorCivs>
+			</Set>
+		</Update>
+		<!-- growth -->
+		<Update>
+			<Where Type="ECONOMICAISTRATEGY_GROW_LIKE_CRAZY"/>
+			<Set>
+				<NoMinorCivs>0</NoMinorCivs>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="ECONOMICAISTRATEGY_HALT_GROWTH_BUILDINGS"/>
+			<Set>
+				<NoMinorCivs>0</NoMinorCivs>
+			</Set>
+		</Update>
+		<!-- religion -->
+		<Update>
+			<Where Type="ECONOMICAISTRATEGY_DEVELOPING_RELIGION"/>
+			<Set>
+				<NoMinorCivs>0</NoMinorCivs>
+			</Set>
+		</Update>
+	</AIEconomicStrategies>
+</GameData>

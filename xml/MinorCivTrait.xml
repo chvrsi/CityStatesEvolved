@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 08/28/2015 10:18:51 PM -->
+<GameData>
+	<!-- Trait: City States Evolved.  -100% unhappiness from number of cities, -50% unhappiness from citizens -->
+	<Traits>
+		<Row>
+			<Type>TRAIT_CS_EVOLVED</Type>
+			<Description>TXT_KEY_TRAIT_CS_EVOLVED</Description>
+			<ShortDescription>TXT_KEY_TRAIT_CS_EVOLVED_SHORT</ShortDescription>
+			<CityUnhappinessModifier>-50</CityUnhappinessModifier>
+			<PopulationUnhappinessModifier>-50</PopulationUnhappinessModifier>
+		</Row>
+	</Traits>
+</GameData>
