@@ -1,0 +1,2871 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 03/23/2016 6:41:23 PM -->
+<GameData>
+	<!--
+	<Table Name="MinorCivilization_Evolved">
+		<Column name="ID" type="integer" primarykey="true" autoincrement ="true"/>
+		<Column name="MinorCivType" type="text" notnull="true" unique="true"/>
+		<Column name="ReplaceEvolvedWith" type="text" notnull="true"/>
+	</Table>
+	-->
+	<MinorCivilization_Evolved>
+		<Row>
+			<ID>0</ID>
+			<MinorCivType>MINOR_CIV_BRATISLAVA</MinorCivType>
+			<ReplaceEvolvedWith>BRATISLAVA</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BUDAPEST</MinorCivType>
+			<ReplaceEvolvedWith>BUDAPEST</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_GENEVA</MinorCivType>
+			<ReplaceEvolvedWith>GENEVA</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_RIGA</MinorCivType>
+			<ReplaceEvolvedWith>RIGA</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_GENOA</MinorCivType>
+			<ReplaceEvolvedWith>GENOA</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_FLORENCE</MinorCivType>
+			<ReplaceEvolvedWith>FLORENCE</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_RAGUSA</MinorCivType>
+			<ReplaceEvolvedWith>RAGUSA</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SYDNEY</MinorCivType>
+			<ReplaceEvolvedWith>SYDNEY</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_QUEBEC_CITY</MinorCivType>
+			<ReplaceEvolvedWith>QUEBEC_CITY</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BUCHAREST</MinorCivType>
+			<ReplaceEvolvedWith>BUCHAREST</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BELGRADE</MinorCivType>
+			<ReplaceEvolvedWith>BELGRADE</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BRUSSELS</MinorCivType>
+			<ReplaceEvolvedWith>BRUSSELS</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MONACO</MinorCivType>
+			<ReplaceEvolvedWith>MONACO</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KATHMANDU</MinorCivType>
+			<ReplaceEvolvedWith>KATHMANDU</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_HANOI</MinorCivType>
+			<ReplaceEvolvedWith>HANOI</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_LHASA</MinorCivType>
+			<ReplaceEvolvedWith>LHASA</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ALMATY</MinorCivType>
+			<ReplaceEvolvedWith>ALMATY</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KUALA_LUMPUR</MinorCivType>
+			<ReplaceEvolvedWith>KUALA_LUMPUR</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SINGAPORE</MinorCivType>
+			<ReplaceEvolvedWith>SINGAPORE</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PANAMA_CITY</MinorCivType>
+			<ReplaceEvolvedWith>PANAMA_CITY</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CAPE_TOWN</MinorCivType>
+			<ReplaceEvolvedWith>CAPE_TOWN</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SIDON</MinorCivType>
+			<ReplaceEvolvedWith>SIDON</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TYRE</MinorCivType>
+			<ReplaceEvolvedWith>TYRE</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ANTWERP</MinorCivType>
+			<ReplaceEvolvedWith>ANTWERP</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CAHOKIA</MinorCivType>
+			<ReplaceEvolvedWith>CAHOKIA</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_COLOMBO</MinorCivType>
+			<ReplaceEvolvedWith>COLOMBO</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_HONG_KONG</MinorCivType>
+			<ReplaceEvolvedWith>HONG_KONG</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ORMUS</MinorCivType>
+			<ReplaceEvolvedWith>ORMUS</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_JERUSALEM</MinorCivType>
+			<ReplaceEvolvedWith>JERUSALEM</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_LA_VENTA</MinorCivType>
+			<ReplaceEvolvedWith>LA_VENTA</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_VANCOUVER</MinorCivType>
+			<ReplaceEvolvedWith>VANCOUVER</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MAINLA</MinorCivType>
+			<ReplaceEvolvedWith>MAINLA</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ANTANANARIVO</MinorCivType>
+			<ReplaceEvolvedWith>ANTANANARIVO</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MILAN</MinorCivType>
+			<ReplaceEvolvedWith>MILAN</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MOMBASA</MinorCivType>
+			<ReplaceEvolvedWith>MOMBASA</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PRAGUE</MinorCivType>
+			<ReplaceEvolvedWith>PRAGUE</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_VALLETTA</MinorCivType>
+			<ReplaceEvolvedWith>VALLETTA</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_VATICAN_CITY</MinorCivType>
+			<ReplaceEvolvedWith>VATICAN_CITY</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_WITTENBERG</MinorCivType>
+			<ReplaceEvolvedWith>WITTENBERG</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_YEREVAN</MinorCivType>
+			<ReplaceEvolvedWith>YEREVAN</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ZANZIBAR</MinorCivType>
+			<ReplaceEvolvedWith>ZANZIBAR</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ZURICH</MinorCivType>
+			<ReplaceEvolvedWith>ZURICH</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SAMARKAND</MinorCivType>
+			<ReplaceEvolvedWith>SAMARKAND</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALACCA</MinorCivType>
+			<ReplaceEvolvedWith>MALACCA</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MOGADISHU</MinorCivType>
+			<ReplaceEvolvedWith>MOGADISHU</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BYBLOS</MinorCivType>
+			<ReplaceEvolvedWith>BYBLOS</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KYZYL</MinorCivType>
+			<ReplaceEvolvedWith>KYZYL</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_IFE</MinorCivType>
+			<ReplaceEvolvedWith>IFE</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KIEV</MinorCivType>
+			<ReplaceEvolvedWith>KIEV</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BUENOS_AIRES</MinorCivType>
+			<ReplaceEvolvedWith>BUENOS_AIRES</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MBANZA_KONGO</MinorCivType>
+			<ReplaceEvolvedWith>MBANZA_KONGO</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KABUL</MinorCivType>
+			<ReplaceEvolvedWith>KABUL</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SOFIA</MinorCivType>
+			<ReplaceEvolvedWith>SOFIA</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_UR</MinorCivType>
+			<ReplaceEvolvedWith>UR</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MELBOURNE</MinorCivType>
+			<ReplaceEvolvedWith>MELBOURNE</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BOGOTA</MinorCivType>
+			<ReplaceEvolvedWith>BOGOTA</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_VILNIUS</MinorCivType>
+			<ReplaceEvolvedWith>VILNIUS</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_WELLINGTON</MinorCivType>
+			<ReplaceEvolvedWith>WELLINGTON</ReplaceEvolvedWith>
+		</Row>
+	</MinorCivilization_Evolved>
+	<MinorCivilizations>
+		<Update>
+			<Where Type="MINOR_CIV_BRATISLAVA"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_BRATISLAVA_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_BRATISLAVA_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_BRATISLAVA_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_BUDAPEST"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_BUDAPEST_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_BUDAPEST_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_BUDAPEST_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_GENEVA"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_GENEVA_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_GENEVA_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_GENEVA_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_RIGA"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_RIGA_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_RIGA_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_RIGA_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_GENOA"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_GENOA_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_GENOA_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_GENOA_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_FLORENCE"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_FLORENCE_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_FLORENCE_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_FLORENCE_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_RAGUSA"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_RAGUSA_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_RAGUSA_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_RAGUSA_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_SYDNEY"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_SYDNEY_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_SYDNEY_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_SYDNEY_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_QUEBEC_CITY"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_QUEBEC_CITY_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_QUEBEC_CITY_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_QUEBEC_CITY_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_BUCHAREST"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_BUCHAREST_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_BUCHAREST_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_BUCHAREST_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_BELGRADE"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_BELGRADE_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_BELGRADE_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_BELGRADE_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_BRUSSELS"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_BRUSSELS_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_BRUSSELS_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_BRUSSELS_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_MONACO"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_MONACO_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_MONACO_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_MONACO_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_KATHMANDU"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_KATHMANDU_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_KATHMANDU_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_KATHMANDU_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_HANOI"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_HANOI_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_HANOI_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_HANOI_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_LHASA"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_LHASA_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_LHASA_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_LHASA_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_ALMATY"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_ALMATY_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_ALMATY_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_ALMATY_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_KUALA_LUMPUR"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_KUALA_LUMPUR_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_KUALA_LUMPUR_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_KUALA_LUMPUR_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_SINGAPORE"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_SINGAPORE_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_SINGAPORE_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_SINGAPORE_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_PANAMA_CITY"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_PANAMA_CITY_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_PANAMA_CITY_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_PANAMA_CITY_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_CAPE_TOWN"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_CAPE_TOWN_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_CAPE_TOWN_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_CAPE_TOWN_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_SIDON"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_SIDON_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_SIDON_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_SIDON_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_TYRE"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_TYRE_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_TYRE_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_TYRE_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_ANTWERP"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_ANTWERP_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_ANTWERP_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_ANTWERP_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_CAHOKIA"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_CAHOKIA_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_CAHOKIA_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_CAHOKIA_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_COLOMBO"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_COLOMBO_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_COLOMBO_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_COLOMBO_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_HONG_KONG"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_HONG_KONG_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_HONG_KONG_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_HONG_KONG_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_ORMUS"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_ORMUS_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_ORMUS_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_ORMUS_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_JERUSALEM"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_JERUSALEM_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_JERUSALEM_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_JERUSALEM_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_LA_VENTA"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_LA_VENTA_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_LA_VENTA_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_LA_VENTA_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_VANCOUVER"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_VANCOUVER_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_VANCOUVER_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_VANCOUVER_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_MAINLA"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_MAINLA_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_MAINLA_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_MAINLA_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_ANTANANARIVO"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_ANTANANARIVO_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_ANTANANARIVO_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_ANTANANARIVO_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_MILAN"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_MILAN_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_MILAN_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_MILAN_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_MOMBASA"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_MOMBASA_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_MOMBASA_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_MOMBASA_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_PRAGUE"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_PRAGUE_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_PRAGUE_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_PRAGUE_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_VALLETTA"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_VALLETTA_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_VALLETTA_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_VALLETTA_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_VATICAN_CITY"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_VATICAN_CITY_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_VATICAN_CITY_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_VATICAN_CITY_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_WITTENBERG"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_WITTENBERG_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_WITTENBERG_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_WITTENBERG_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_YEREVAN"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_YEREVAN_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_YEREVAN_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_YEREVAN_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_ZANZIBAR"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_ZANZIBAR_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_ZANZIBAR_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_ZANZIBAR_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_ZURICH"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_ZURICH_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_ZURICH_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_ZURICH_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_SAMARKAND"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_SAMARKAND_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_SAMARKAND_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_SAMARKAND_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_MALACCA"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_MALACCA_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_MALACCA_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_MALACCA_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_MOGADISHU"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_MOGADISHU_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_MOGADISHU_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_MOGADISHU_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_BYBLOS"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_BYBLOS_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_BYBLOS_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_BYBLOS_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_KYZYL"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_KYZYL_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_KYZYL_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_KYZYL_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_IFE"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_IFE_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_IFE_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_IFE_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_KIEV"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_KIEV_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_KIEV_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_KIEV_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_BUENOS_AIRES"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_BUENOS_AIRES_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_BUENOS_AIRES_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_BUENOS_AIRES_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_MBANZA_KONGO"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_MBANZA_KONGO_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_MBANZA_KONGO_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_MBANZA_KONGO_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_KABUL"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_KABUL_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_KABUL_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_KABUL_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_SOFIA"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_SOFIA_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_SOFIA_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_SOFIA_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_UR"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_UR_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_UR_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_UR_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_MELBOURNE"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_MELBOURNE_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_MELBOURNE_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_MELBOURNE_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_BOGOTA"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_BOGOTA_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_BOGOTA_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_BOGOTA_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_VILNIUS"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_VILNIUS_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_VILNIUS_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_VILNIUS_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_WELLINGTON"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_WELLINGTON_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_WELLINGTON_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_WELLINGTON_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<!-- template
+		<Update>
+			<Where Type=""/>
+			<Set>
+				<Description></Description>
+				<ShortDescription></ShortDescription>
+				<Adjective></Adjective>
+			</Set>
+		</Update>
+		-->
+	</MinorCivilizations>
+	<Language_en_US>
+		<!-- Convention: the former city state is the "capital" even if it's not really the capital -->
+		<!-- Bratislava (slovakia) -->
+		<Row Tag="TXT_KEY_CITYSTATE_BRATISLAVA_DESCR">
+			<Text>Slovakia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BRATISLAVA_ADJECTIVE">
+			<Text>Slovak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BRATISLAVA_01">
+			<Text>Bratislava</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BRATISLAVA_02">
+			<Text>Kosice</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BRATISLAVA_03">
+			<Text>Presov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BRATISLAVA_04">
+			<Text>Zilina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BRATISLAVA_05">
+			<Text>Nitra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BRATISLAVA_06">
+			<Text>Banska Bystrica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BRATISLAVA_07">
+			<Text>Trnava</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BRATISLAVA_08">
+			<Text>Martin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BRATISLAVA_09">
+			<Text>Trencin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BRATISLAVA_10">
+			<Text>Poprad</Text>
+		</Row>
+		<!-- Budapest (hungary) -->
+		<Row Tag="TXT_KEY_CITYSTATE_BUDAPEST_DESCR">
+			<Text>Hungary</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUDAPEST_ADJECTIVE">
+			<Text>Hungarian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUDAPEST_01">
+			<Text>Budapest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUDAPEST_02">
+			<Text>Debrecen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUDAPEST_03">
+			<Text>Miskolc</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUDAPEST_04">
+			<Text>Szeged</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUDAPEST_05">
+			<Text>Pecs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUDAPEST_06">
+			<Text>Gyor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUDAPEST_07">
+			<Text>Nyiregyhaza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUDAPEST_08">
+			<Text>Kecksemet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUDAPEST_09">
+			<Text>Szekesfehervar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUDAPEST_10">
+			<Text>Szombathely</Text>
+		</Row>
+		<!-- Geneva (switzerland - romandy) -->
+		<Row Tag="TXT_KEY_CITYSTATE_GENEVA_DESCR">
+			<Text>Romandy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GENEVA_ADJECTIVE">
+			<Text>Romand</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GENEVA_01">
+			<Text>Geneva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GENEVA_02">
+			<Text>Zurich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GENEVA_03">
+			<Text>Basel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GENEVA_04">
+			<Text>Lausanne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GENEVA_05">
+			<Text>Bern</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GENEVA_06">
+			<Text>Winterthur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GENEVA_07">
+			<Text>Lucerne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GENEVA_08">
+			<Text>St. Gallen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GENEVA_09">
+			<Text>Lugano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GENEVA_10">
+			<Text>Biel</Text>
+		</Row>
+		<!-- Riga (latvia) -->
+		<Row Tag="TXT_KEY_CITYSTATE_RIGA_DESCR">
+			<Text>Latvia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_RIGA_ADJECTIVE">
+			<Text>Latvian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_RIGA_01">
+			<Text>Riga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_RIGA_02">
+			<Text>Daugavpils</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_RIGA_03">
+			<Text>Liepaja</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_RIGA_04">
+			<Text>Jelgava</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_RIGA_05">
+			<Text>Jurmala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_RIGA_06">
+			<Text>Ventspils</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_RIGA_07">
+			<Text>Rezekne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_RIGA_08">
+			<Text>Valmiera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_RIGA_09">
+			<Text>Ogre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_RIGA_10">
+			<Text>Jekabpils</Text>
+		</Row>
+		<!-- Genoa (italy - liguria) -->
+		<Row Tag="TXT_KEY_CITYSTATE_GENOA_DESCR">
+			<Text>Liguria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GENOA_ADJECTIVE">
+			<Text>Ligurian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GENOA_01">
+			<Text>Genova</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GENOA_02">
+			<Text>La Spezia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GENOA_03">
+			<Text>Savona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GENOA_04">
+			<Text>Sanremo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GENOA_05">
+			<Text>Imperia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GENOA_06">
+			<Text>Rapallo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GENOA_07">
+			<Text>Chiavari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GENOA_08">
+			<Text>Ventimiglia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GENOA_09">
+			<Text>Sarzana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GENOA_10">
+			<Text>Sestri Levante</Text>
+		</Row>
+		<!-- Florence (italy - florence) -->
+		<Row Tag="TXT_KEY_CITYSTATE_FLORENCE_DESCR">
+			<Text>Florence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_FLORENCE_ADJECTIVE">
+			<Text>Florentine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_FLORENCE_01">
+			<Text>Florence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_FLORENCE_02">
+			<Text>Scandicci</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_FLORENCE_03">
+			<Text>Sesto Fiorentino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_FLORENCE_04">
+			<Text>Empoli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_FLORENCE_05">
+			<Text>Campi Bisenzio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_FLORENCE_06">
+			<Text>Bagno a Ripoli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_FLORENCE_07">
+			<Text>Fuceccio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_FLORENCE_08">
+			<Text>Figline e Incisa Valdarno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_FLORENCE_09">
+			<Text>Pontassieve</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_FLORENCE_10">
+			<Text>Lastra a Signa</Text>
+		</Row>
+		<!-- Ragusa (italy - ragusa) -->
+		<Row Tag="TXT_KEY_CITYSTATE_RAGUSA_DESCR">
+			<Text>Ragusa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_RAGUSA_ADJECTIVE">
+			<Text>Ragusan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_RAGUSA_01">
+			<Text>Ragusa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_RAGUSA_02">
+			<Text>Vittoria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_RAGUSA_03">
+			<Text>Modica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_RAGUSA_04">
+			<Text>Comiso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_RAGUSA_05">
+			<Text>Scicli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_RAGUSA_06">
+			<Text>Pozzallo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_RAGUSA_07">
+			<Text>Ispica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_RAGUSA_08">
+			<Text>Santa Croce Camerina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_RAGUSA_09">
+			<Text>Acate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_RAGUSA_10">
+			<Text>Chiaramonte Gulfi</Text>
+		</Row>
+		<!-- Sydney (australia - new south wales) -->
+		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY_DESCR">
+			<Text>New South Wales</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY_ADJECTIVE">
+			<Text>New South Wales</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY_01">
+			<Text>Sydney</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY_02">
+			<Text>Newcastle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY_03">
+			<Text>Central Coast</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY_04">
+			<Text>Wollongong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY_05">
+			<Text>Maitland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY_06">
+			<Text>Tweed Heads</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY_07">
+			<Text>Wagga Wagga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY_08">
+			<Text>Albury</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY_09">
+			<Text>Port Macquarie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY_10">
+			<Text>Tamworth</Text>
+		</Row>
+		<!-- Quebec City (canada - quebec) -->
+		<Row Tag="TXT_KEY_CITYSTATE_QUEBEC_CITY_DESCR">
+			<Text>Quebec</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_QUEBEC_CITY_ADJECTIVE">
+			<Text>Quebecois</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_QUEBEC_CITY_01">
+			<Text>Quebec</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_QUEBEC_CITY_02">
+			<Text>Montreal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_QUEBEC_CITY_03">
+			<Text>Ottawa-Gatineau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_QUEBEC_CITY_04">
+			<Text>Sherbrooke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_QUEBEC_CITY_05">
+			<Text>Trois-Rivieres</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_QUEBEC_CITY_06">
+			<Text>Chicoutimi-Jonquiere</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_QUEBEC_CITY_07">
+			<Text>Saint-Jean-sur-Richelieu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_QUEBEC_CITY_08">
+			<Text>Chateauguay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_QUEBEC_CITY_09">
+			<Text>Drummondville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_QUEBEC_CITY_10">
+			<Text>Saint-Jerome</Text>
+		</Row>
+		<!-- Bucharest (romania) -->
+		<Row Tag="TXT_KEY_CITYSTATE_BUCHAREST_DESCR">
+			<Text>Romania</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUCHAREST_ADJECTIVE">
+			<Text>Romany</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUCHAREST_01">
+			<Text>Bucharest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUCHAREST_02">
+			<Text>Cluj-Napoca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUCHAREST_03">
+			<Text>Timisoara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUCHAREST_04">
+			<Text>Iasi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUCHAREST_05">
+			<Text>Constanta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUCHAREST_06">
+			<Text>Craiova</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUCHAREST_07">
+			<Text>Brasov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUCHAREST_08">
+			<Text>Galati</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUCHAREST_09">
+			<Text>Ploiesti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUCHAREST_10">
+			<Text>Oradea</Text>
+		</Row>
+		<!-- Belgrade (serbia) -->
+		<Row Tag="TXT_KEY_CITYSTATE_BELGRADE_DESCR">
+			<Text>Serbia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BELGRADE_ADJECTIVE">
+			<Text>Serbian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BELGRADE_01">
+			<Text>Belgrade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BELGRADE_02">
+			<Text>Novi Sad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BELGRADE_03">
+			<Text>Nis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BELGRADE_04">
+			<Text>Kragujevac</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BELGRADE_05">
+			<Text>Subotica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BELGRADE_06">
+			<Text>Zrenjanin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BELGRADE_07">
+			<Text>Pancevo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BELGRADE_08">
+			<Text>Cacak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BELGRADE_09">
+			<Text>Kraljevo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BELGRADE_10">
+			<Text>Novi Pazar</Text>
+		</Row>
+		<!-- Brussels (belgium - wallonia) -->
+		<Row Tag="TXT_KEY_CITYSTATE_BRUSSELS_DESCR">
+			<Text>Wallonia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BRUSSELS_ADJECTIVE">
+			<Text>Walloon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BRUSSELS_01">
+			<Text>Brussels</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BRUSSELS_02">
+			<Text>Charleroi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BRUSSELS_03">
+			<Text>Liege</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BRUSSELS_04">
+			<Text>Namur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BRUSSELS_05">
+			<Text>Mons</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BRUSSELS_06">
+			<Text>La Louviere</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BRUSSELS_07">
+			<Text>Tournai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BRUSSELS_08">
+			<Text>Seraing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BRUSSELS_09">
+			<Text>Mouscron</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BRUSSELS_10">
+			<Text>Verviers</Text>
+		</Row>
+		<!-- Monaco (monaco) -->
+		<Row Tag="TXT_KEY_CITYSTATE_MONACO_DESCR">
+			<Text>Monaco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MONACO_ADJECTIVE">
+			<Text>Monaco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MONACO_01">
+			<Text>Monaco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MONACO_02">
+			<Text>Monte Carlo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MONACO_03">
+			<Text>La Condamine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MONACO_04">
+			<Text>Fontvieille</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MONACO_05">
+			<Text>Moneghetti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MONACO_06">
+			<Text>Larvotto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MONACO_07">
+			<Text>La Rousse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MONACO_08">
+			<Text>Saint Michel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MONACO_09">
+			<Text>La Colle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MONACO_10">
+			<Text>Les Revoires</Text>
+		</Row>
+		<!-- Kathmandu (nepal) -->
+		<Row Tag="TXT_KEY_CITYSTATE_KATHMANDU_DESCR">
+			<Text>Nepal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KATHMANDU_ADJECTIVE">
+			<Text>Nepalese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KATHMANDU_01">
+			<Text>Kathmandu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KATHMANDU_02">
+			<Text>Pokhara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KATHMANDU_03">
+			<Text>Lalitpur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KATHMANDU_04">
+			<Text>Birganj</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KATHMANDU_05">
+			<Text>Biratnagar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KATHMANDU_06">
+			<Text>Bharatpur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KATHMANDU_07">
+			<Text>Janakpur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KATHMANDU_08">
+			<Text>Hetauda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KATHMANDU_09">
+			<Text>Nepalganj</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KATHMANDU_10">
+			<Text>Itahari</Text>
+		</Row>
+		<!-- Hanoi (vietnam) -->
+		<Row Tag="TXT_KEY_CITYSTATE_HANOI_DESCR">
+			<Text>Vietnam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HANOI_ADJECTIVE">
+			<Text>Vietnamese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HANOI_01">
+			<Text>Ha Noi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HANOI_02">
+			<Text>Ho Chi Minh City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HANOI_03">
+			<Text>Hai Phong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HANOI_04">
+			<Text>Can Tho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HANOI_05">
+			<Text>Da Nang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HANOI_06">
+			<Text>Bien Hoa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HANOI_07">
+			<Text>Phan Rang-Thap Cham</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HANOI_08">
+			<Text>Son La</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HANOI_09">
+			<Text>Mong Cai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HANOI_10">
+			<Text>Tuyen Quang</Text>
+		</Row>
+		<!-- Lhasa (tibet) -->
+		<Row Tag="TXT_KEY_CITYSTATE_LHASA_DESCR">
+			<Text>Tibet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LHASA_ADJECTIVE">
+			<Text>Tibetan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LHASA_01">
+			<Text>Lhasa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LHASA_02">
+			<Text>Shigatse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LHASA_03">
+			<Text>Gyantse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LHASA_04">
+			<Text>Qamdo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LHASA_05">
+			<Text>Shiquanhe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LHASA_06">
+			<Text>Nagchu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LHASA_07">
+			<Text>Bamda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LHASA_08">
+			<Text>Rutog</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LHASA_09">
+			<Text>Nyingchi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LHASA_10">
+			<Text>Nedong</Text>
+		</Row>
+		<!-- Almaty (khazakstan) -->
+		<Row Tag="TXT_KEY_CITYSTATE_ALMATY_DESCR">
+			<Text>Khazakhstan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ALMATY_ADJECTIVE">
+			<Text>Khazak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ALMATY_01">
+			<Text>Almaty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ALMATY_02">
+			<Text>Shymkent</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ALMATY_03">
+			<Text>Karagandy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ALMATY_04">
+			<Text>Taraz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ALMATY_05">
+			<Text>Astana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ALMATY_06">
+			<Text>Pavlodar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ALMATY_07">
+			<Text>Oskemen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ALMATY_08">
+			<Text>Aktobe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ALMATY_09">
+			<Text>Konstanay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ALMATY_10">
+			<Text>Petropavl</Text>
+		</Row>
+		<!-- Kuala Lumpur (malaysia province) -->
+		<Row Tag="TXT_KEY_CITYSTATE_KUALA_LUMPUR_DESCR">
+			<Text>Federation of Malaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KUALA_LUMPUR_ADJECTIVE">
+			<Text>Malay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KUALA_LUMPUR_01">
+			<Text>Kuala Lumpur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KUALA_LUMPUR_02">
+			<Text>Johor Bahru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KUALA_LUMPUR_03">
+			<Text>Ipoh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KUALA_LUMPUR_04">
+			<Text>Shah Alam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KUALA_LUMPUR_05">
+			<Text>Petaling Jaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KUALA_LUMPUR_06">
+			<Text>Kuching</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KUALA_LUMPUR_07">
+			<Text>George Town</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KUALA_LUMPUR_08">
+			<Text>Kota Bharu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KUALA_LUMPUR_09">
+			<Text>Kota Kinabalu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KUALA_LUMPUR_10">
+			<Text>Kuala Terengganu</Text>
+		</Row>
+		<!-- Singapore (singapore) -->
+		<Row Tag="TXT_KEY_CITYSTATE_SINGAPORE_DESCR">
+			<Text>Singapore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SINGAPORE_ADJECTIVE">
+			<Text>Singaporean</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SINGAPORE_01">
+			<Text>Singapore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SINGAPORE_02">
+			<Text>Bukit Merah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SINGAPORE_03">
+			<Text>Jurong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SINGAPORE_04">
+			<Text>Hougang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SINGAPORE_05">
+			<Text>Bedok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SINGAPORE_06">
+			<Text>Woodlands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SINGAPORE_07">
+			<Text>Tekong Kechil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SINGAPORE_08">
+			<Text>Pulau Ubin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SINGAPORE_09">
+			<Text>Bukom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SINGAPORE_10">
+			<Text>Semaku</Text>
+		</Row>
+		<!-- Panama City (panama) -->
+		<Row Tag="TXT_KEY_CITYSTATE_PANAMA_CITY_DESCR">
+			<Text>Panama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PANAMA_CITY_ADJECTIVE">
+			<Text>Panamanian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PANAMA_CITY_01">
+			<Text>Panama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PANAMA_CITY_02">
+			<Text>San Miguelito</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PANAMA_CITY_03">
+			<Text>Tocumen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PANAMA_CITY_04">
+			<Text>David</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PANAMA_CITY_05">
+			<Text>Las Cumbres</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PANAMA_CITY_06">
+			<Text>Colon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PANAMA_CITY_07">
+			<Text>La Chorrera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PANAMA_CITY_08">
+			<Text>Pacora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PANAMA_CITY_09">
+			<Text>Santiago de Veraguas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PANAMA_CITY_10">
+			<Text>Chitre</Text>
+		</Row>
+		<!-- Cape Town (south africa western cape) -->
+		<Row Tag="TXT_KEY_CITYSTATE_CAPE_TOWN_DESCR">
+			<Text>Cape Town</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CAPE_TOWN_ADJECTIVE">
+			<Text>Cape</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CAPE_TOWN_01">
+			<Text>Cape Town</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CAPE_TOWN_02">
+			<Text>George</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CAPE_TOWN_03">
+			<Text>Paarl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CAPE_TOWN_04">
+			<Text>Worcester</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CAPE_TOWN_05">
+			<Text>Atlantis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CAPE_TOWN_06">
+			<Text>Knynsa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CAPE_TOWN_07">
+			<Text>Mossel Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CAPE_TOWN_08">
+			<Text>Oudtshoorn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CAPE_TOWN_09">
+			<Text>Stellenbosch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CAPE_TOWN_10">
+			<Text>Wellington</Text>
+		</Row>
+		<!-- Sidon (phoenician city / lebanon) -->
+		<Row Tag="TXT_KEY_CITYSTATE_SIDON_DESCR">
+			<Text>Saida</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SIDON_ADJECTIVE">
+			<Text>Phoenician</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SIDON_01">
+			<Text>Sidon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SIDON_02">
+			<Text>Beirut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SIDON_03">
+			<Text>Tripoli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SIDON_04">
+			<Text>Jounieh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SIDON_05">
+			<Text>Aley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SIDON_06">
+			<Text>Tyre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SIDON_07">
+			<Text>Shheem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SIDON_08">
+			<Text>Byblos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SIDON_09">
+			<Text>Baskinta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SIDON_10">
+			<Text>Choueir</Text>
+		</Row>
+		<!-- Tyre (phoenician city / lebanon) -->
+		<Row Tag="TXT_KEY_CITYSTATE_TYRE_DESCR">
+			<Text>Sur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TYRE_ADJECTIVE">
+			<Text>Phoenician</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TYRE_01">
+			<Text>Tyre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TYRE_02">
+			<Text>Beirut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TYRE_03">
+			<Text>Tripoli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TYRE_04">
+			<Text>Sidon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TYRE_05">
+			<Text>Jounieh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TYRE_06">
+			<Text>Aley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TYRE_07">
+			<Text>Shheem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TYRE_08">
+			<Text>Byblos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TYRE_09">
+			<Text>Baskinta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TYRE_10">
+			<Text>Choueir</Text>
+		</Row>
+		<!-- Antwerp (belgium - flanders) -->
+		<Row Tag="TXT_KEY_CITYSTATE_ANTWERP_DESCR">
+			<Text>Flanders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ANTWERP_ADJECTIVE">
+			<Text>Flemish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ANTWERP_01">
+			<Text>Antwerp</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ANTWERP_02">
+			<Text>Ghent</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ANTWERP_03">
+			<Text>Bruges</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ANTWERP_04">
+			<Text>Leuven</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ANTWERP_05">
+			<Text>Mechelen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ANTWERP_06">
+			<Text>Aalst</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ANTWERP_07">
+			<Text>Kortrijk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ANTWERP_08">
+			<Text>Hasselt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ANTWERP_09">
+			<Text>Sint-Niklaas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ANTWERP_10">
+			<Text>Ostend</Text>
+		</Row>
+		<!-- Cahokia (ancient american indian) very hard to find anything :/ -->
+		<Row Tag="TXT_KEY_CITYSTATE_CAHOKIA_DESCR">
+			<Text>Cahokia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CAHOKIA_ADJECTIVE">
+			<Text>Cahokian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CAHOKIA_01">
+			<Text>Cahokia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CAHOKIA_02">
+			<Text>Mesa Verde</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CAHOKIA_03">
+			<Text>Chaco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CAHOKIA_04">
+			<Text>Hovenweep</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CAHOKIA_05">
+			<Text>Knife River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CAHOKIA_06">
+			<Text>Puye Cliff</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CAHOKIA_07">
+			<Text>Crow Canyon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CAHOKIA_08">
+			<Text>Ute Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CAHOKIA_09">
+			<Text>Chimney Rock</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CAHOKIA_10">
+			<Text>Homolovi</Text>
+		</Row>
+		<!-- Colombo (sri lanka) -->
+		<Row Tag="TXT_KEY_CITYSTATE_COLOMBO_DESCR">
+			<Text>Sri Lanka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_COLOMBO_ADJECTIVE">
+			<Text>Sri Lankan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_COLOMBO_01">
+			<Text>Colombo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_COLOMBO_02">
+			<Text>Dehiwala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_COLOMBO_03">
+			<Text>Moratuwa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_COLOMBO_04">
+			<Text>Sri Jayawardenapura Kotte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_COLOMBO_05">
+			<Text>Negombo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_COLOMBO_06">
+			<Text>Kandy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_COLOMBO_07">
+			<Text>Kalmunai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_COLOMBO_08">
+			<Text>Vavuniya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_COLOMBO_09">
+			<Text>Galle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_COLOMBO_10">
+			<Text>Trincomalee</Text>
+		</Row>
+		<!-- Hong Kong (chinese, formerly british protectorate) -->
+		<Row Tag="TXT_KEY_CITYSTATE_HONG_KONG_DESCR">
+			<Text>Hong Kong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HONG_KONG_ADJECTIVE">
+			<Text>Hong Kong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HONG_KONG_01">
+			<Text>Hong Kong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HONG_KONG_02">
+			<Text>Kowloon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HONG_KONG_03">
+			<Text>Tsuen Wan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HONG_KONG_04">
+			<Text>Sha Tin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HONG_KONG_05">
+			<Text>Tuen Mun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HONG_KONG_06">
+			<Text>Tseung Kwan O</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HONG_KONG_07">
+			<Text>Aberdeen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HONG_KONG_08">
+			<Text>Tai Po</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HONG_KONG_09">
+			<Text>Tin Shui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HONG_KONG_10">
+			<Text>Fanling-Sheung Shui</Text>
+		</Row>
+		<!-- Ormus (straits of hormuz - iran province hormozgan) -->
+		<Row Tag="TXT_KEY_CITYSTATE_ORMUS_DESCR">
+			<Text>Hormuz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ORMUS_ADJECTIVE">
+			<Text>Hormozgan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ORMUS_01">
+			<Text>Hormuz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ORMUS_02">
+			<Text>Bandar Abbas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ORMUS_03">
+			<Text>Bandar Lengeh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ORMUS_04">
+			<Text>Hajiabbad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ORMUS_05">
+			<Text>Minab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ORMUS_06">
+			<Text>Qeshm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ORMUS_07">
+			<Text>Jask</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ORMUS_08">
+			<Text>Bastak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ORMUS_09">
+			<Text>Bandar Khamir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ORMUS_10">
+			<Text>Parsian</Text>
+		</Row>
+		<!-- Jerusalem (israel) -->
+		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_DESCR">
+			<Text>Israel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_ADJECTIVE">
+			<Text>Israelite</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_01">
+			<Text>Jerusalem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_02">
+			<Text>Tel Aviv</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_03">
+			<Text>Haifa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_04">
+			<Text>Rishon LeZion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_05">
+			<Text>Petah Tikva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_06">
+			<Text>Ashdod</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_07">
+			<Text>Netanya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_08">
+			<Text>Beersheba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_09">
+			<Text>Holon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_10">
+			<Text>Bnei Brak</Text>
+		</Row>
+		<!-- La Venta (olmec civilization) - hard to find anything, source for last 5: forums.civfanatics.com/showthread.php?t=199296 -->
+		<Row Tag="TXT_KEY_CITYSTATE_LA_VENTA_DESCR">
+			<Text>Olmec</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LA_VENTA_ADJECTIVE">
+			<Text>Olmec</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LA_VENTA_01">
+			<Text>La Venta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LA_VENTA_02">
+			<Text>San Lorenzo Tenochtitlan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LA_VENTA_03">
+			<Text>Laguna de los Cerros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LA_VENTA_04">
+			<Text>Tres Zapotes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LA_VENTA_05">
+			<Text>Rio Palma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LA_VENTA_06">
+			<Text>Mezcalapa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LA_VENTA_07">
+			<Text>Coatzacoalcos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LA_VENTA_08">
+			<Text>Tuxtla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LA_VENTA_09">
+			<Text>La Mojarra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LA_VENTA_10">
+			<Text>Chalcatzingo</Text>
+		</Row>
+		<!-- Vancouver (canada - british columbia) -->
+		<Row Tag="TXT_KEY_CITYSTATE_VANCOUVER_DESCR">
+			<Text>British Columbia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VANCOUVER_ADJECTIVE">
+			<Text>British Columbian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VANCOUVER_01">
+			<Text>Vancouver</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VANCOUVER_02">
+			<Text>Surrey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VANCOUVER_03">
+			<Text>Burnaby</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VANCOUVER_04">
+			<Text>Richmond</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VANCOUVER_05">
+			<Text>Abbotsford</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VANCOUVER_06">
+			<Text>Coquitlam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VANCOUVER_07">
+			<Text>Kelowna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VANCOUVER_08">
+			<Text>Kamloops</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VANCOUVER_09">
+			<Text>Nanaimo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VANCOUVER_10">
+			<Text>Victoria</Text>
+		</Row>
+		<!-- Manila (phillipine) -->
+		<Row Tag="TXT_KEY_CITYSTATE_MAINLA_DESCR">
+			<Text>Philippines</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MAINLA_ADJECTIVE">
+			<Text>Philippine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MAINLA_01">
+			<Text>Manila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MAINLA_02">
+			<Text>Quezon City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MAINLA_03">
+			<Text>Caloocan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MAINLA_04">
+			<Text>Davao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MAINLA_05">
+			<Text>Cebu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MAINLA_06">
+			<Text>Zamboanga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MAINLA_07">
+			<Text>Antipolo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MAINLA_08">
+			<Text>Pasig</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MAINLA_09">
+			<Text>Taguig</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MAINLA_10">
+			<Text>Cagayan de Oro</Text>
+		</Row>
+		<!-- Antananarivo (madagascar) -->
+		<Row Tag="TXT_KEY_CITYSTATE_ANTANANARIVO_DESCR">
+			<Text>Madagascar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ANTANANARIVO_ADJECTIVE">
+			<Text>Madagascar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ANTANANARIVO_01">
+			<Text>Antananarivo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ANTANANARIVO_02">
+			<Text>Toamasina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ANTANANARIVO_03">
+			<Text>Antsirabe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ANTANANARIVO_04">
+			<Text>Fianarantsoa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ANTANANARIVO_05">
+			<Text>Toliara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ANTANANARIVO_06">
+			<Text>Antsiranana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ANTANANARIVO_07">
+			<Text>Ambovombe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ANTANANARIVO_08">
+			<Text>Antanifotsy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ANTANANARIVO_09">
+			<Text>Amparafaravola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ANTANANARIVO_10">
+			<Text>Tolanaro</Text>
+		</Row>
+		<!-- Milan (italian province) -->
+		<Row Tag="TXT_KEY_CITYSTATE_MILAN_DESCR">
+			<Text>Milan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MILAN_ADJECTIVE">
+			<Text>Milanese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MILAN_01">
+			<Text>Milan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MILAN_02">
+			<Text>Sesto San Giovanni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MILAN_03">
+			<Text>Cinisello Balsamo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MILAN_04">
+			<Text>Legnano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MILAN_05">
+			<Text>Rho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MILAN_06">
+			<Text>Cologno Monzese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MILAN_07">
+			<Text>Paderno Dugano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MILAN_08">
+			<Text>Rozzano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MILAN_09">
+			<Text>San Giuliano Milanese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MILAN_10">
+			<Text>Bollate</Text>
+		</Row>
+		<!-- Mombasa (kenya) -->
+		<Row Tag="TXT_KEY_CITYSTATE_MOMBASA_DESCR">
+			<Text>Kenya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOMBASA_ADJECTIVE">
+			<Text>Kenyan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOMBASA_01">
+			<Text>Mombasa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOMBASA_02">
+			<Text>Nairobi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOMBASA_03">
+			<Text>Kisumu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOMBASA_04">
+			<Text>Nakuru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOMBASA_05">
+			<Text>Eldoret</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOMBASA_06">
+			<Text>Kehancha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOMBASA_07">
+			<Text>Ruiru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOMBASA_08">
+			<Text>Kikuyu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOMBASA_09">
+			<Text>Kangundo-Tala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOMBASA_10">
+			<Text>Malindi</Text>
+		</Row>
+		<!-- Prague (bohemia/czech republic) -->
+		<Row Tag="TXT_KEY_CITYSTATE_PRAGUE_DESCR">
+			<Text>Czech Republic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PRAGUE_ADJECTIVE">
+			<Text>Czech</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PRAGUE_01">
+			<Text>Prague</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PRAGUE_02">
+			<Text>Brno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PRAGUE_03">
+			<Text>Ostrava</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PRAGUE_04">
+			<Text>Plzen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PRAGUE_05">
+			<Text>Liberec</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PRAGUE_06">
+			<Text>Olomouc</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PRAGUE_07">
+			<Text>Usti nad Labem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PRAGUE_08">
+			<Text>Ceske Budejovice</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PRAGUE_09">
+			<Text>Hradek Kralove</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PRAGUE_10">
+			<Text>Pardubice</Text>
+		</Row>
+		<!-- Valletta (malta) -->
+		<Row Tag="TXT_KEY_CITYSTATE_VALLETTA_DESCR">
+			<Text>Malta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VALLETTA_ADJECTIVE">
+			<Text>Maltese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VALLETTA_01">
+			<Text>Valletta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VALLETTA_02">
+			<Text>Qormi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VALLETTA_03">
+			<Text>Zabbar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VALLETTA_04">
+			<Text>Zebbug</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VALLETTA_05">
+			<Text>Zetjun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VALLETTA_06">
+			<Text>Siggiewi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VALLETTA_07">
+			<Text>Rabat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VALLETTA_08">
+			<Text>Bormla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VALLETTA_09">
+			<Text>Sengelea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VALLETTA_10">
+			<Text>Birgu</Text>
+		</Row>
+		<!-- Vatican City (vatican city) ok this doesn't make any sense but whatever -->
+		<Row Tag="TXT_KEY_CITYSTATE_VATICAN_CITY_DESCR">
+			<Text>Vatican</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VATICAN_CITY_ADJECTIVE">
+			<Text>Vatican</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VATICAN_CITY_01">
+			<Text>Vatican City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VATICAN_CITY_02">
+			<Text>Saint Peter's Basilica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VATICAN_CITY_03">
+			<Text>Pinacotheca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VATICAN_CITY_04">
+			<Text>Belvedere</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VATICAN_CITY_05">
+			<Text>Borgia Tower</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VATICAN_CITY_06">
+			<Text>Saint Charles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VATICAN_CITY_07">
+			<Text>Santa Maria della Pieta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VATICAN_CITY_08">
+			<Text>Campo Santo Teutonico</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VATICAN_CITY_09">
+			<Text>Gallinaro Tower</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VATICAN_CITY_10">
+			<Text>Gate of Saint Pellegrino</Text>
+		</Row>
+		<!-- Wittenberg (germany - saxony anhalt) -->
+		<Row Tag="TXT_KEY_CITYSTATE_WITTENBERG_DESCR">
+			<Text>Saxony-Anhalt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WITTENBERG_ADJECTIVE">
+			<Text>Saxony</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WITTENBERG_01">
+			<Text>Wittenberg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WITTENBERG_02">
+			<Text>Abtsdorf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WITTENBERG_03">
+			<Text>Bobdorf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WITTENBERG_04">
+			<Text>Griebo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WITTENBERG_05">
+			<Text>Kropstadt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WITTENBERG_06">
+			<Text>Mohlau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WITTENBERG_07">
+			<Text>Reinsdorf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WITTENBERG_08">
+			<Text>Piesteritz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WITTENBERG_09">
+			<Text>Schlosskirche</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WITTENBERG_10">
+			<Text>Stadtkirche</Text>
+		</Row>
+		<!-- Yerevan (armenia) -->
+		<Row Tag="TXT_KEY_CITYSTATE_YEREVAN_DESCR">
+			<Text>Armenia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_YEREVAN_ADJECTIVE">
+			<Text>Armenian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_YEREVAN_01">
+			<Text>Yerevan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_YEREVAN_02">
+			<Text>Gyumri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_YEREVAN_03">
+			<Text>Vanadzor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_YEREVAN_04">
+			<Text>Vagharshapat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_YEREVAN_05">
+			<Text>Abovyan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_YEREVAN_06">
+			<Text>Kapan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_YEREVAN_07">
+			<Text>Hrazdan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_YEREVAN_08">
+			<Text>Armavir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_YEREVAN_09">
+			<Text>Artashat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_YEREVAN_10">
+			<Text>Ijevan</Text>
+		</Row>
+		<!-- Zanzibar (tanzania) -->
+		<Row Tag="TXT_KEY_CITYSTATE_ZANZIBAR_DESCR">
+			<Text>Tanzania</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ZANZIBAR_ADJECTIVE">
+			<Text>Tanzanian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ZANZIBAR_01">
+			<Text>Zanzibar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ZANZIBAR_02">
+			<Text>Dar es Salaam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ZANZIBAR_03">
+			<Text>Mwanza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ZANZIBAR_04">
+			<Text>Dodoma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ZANZIBAR_05">
+			<Text>Mbeya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ZANZIBAR_06">
+			<Text>Morogoro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ZANZIBAR_07">
+			<Text>Tanga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ZANZIBAR_08">
+			<Text>Kahama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ZANZIBAR_09">
+			<Text>Tabora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ZANZIBAR_10">
+			<Text>Kigoma</Text>
+		</Row>
+		<!-- Zurich (switzerland - alemannic) -->
+		<Row Tag="TXT_KEY_CITYSTATE_ZURICH_DESCR">
+			<Text>Alemanni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ZURICH_ADJECTIVE">
+			<Text>Alemannic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ZURICH_01">
+			<Text>Zurich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ZURICH_02">
+			<Text>Geneva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ZURICH_03">
+			<Text>Basel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ZURICH_04">
+			<Text>Lausanne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ZURICH_05">
+			<Text>Bern</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ZURICH_06">
+			<Text>Winterthur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ZURICH_07">
+			<Text>Lucerne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ZURICH_08">
+			<Text>St. Gallen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ZURICH_09">
+			<Text>Lugano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ZURICH_10">
+			<Text>Biel</Text>
+		</Row>
+		<!-- Samarkand (uzbekistan) -->
+		<Row Tag="TXT_KEY_CITYSTATE_SAMARKAND_DESCR">
+			<Text>Uzbekistan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SAMARKAND_ADJECTIVE">
+			<Text>Uzbek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SAMARKAND_01">
+			<Text>Samarqand</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SAMARKAND_02">
+			<Text>Toshkent</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SAMARKAND_03">
+			<Text>Namangan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SAMARKAND_04">
+			<Text>Andijon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SAMARKAND_05">
+			<Text>Nukus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SAMARKAND_06">
+			<Text>Buxoro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SAMARKAND_07">
+			<Text>Qarshi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SAMARKAND_08">
+			<Text>Qu'qon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SAMARKAND_09">
+			<Text>Farg'ona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SAMARKAND_10">
+			<Text>Marg'ilon</Text>
+		</Row>
+		<!-- Malacca (malaysia province - city order reversed) -->
+		<Row Tag="TXT_KEY_CITYSTATE_MALACCA_DESCR">
+			<Text>Malay Sultanate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MALACCA_ADJECTIVE">
+			<Text>Malay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MALACCA_01">
+			<Text>Malacca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MALACCA_02">
+			<Text>Kuala Terengganu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MALACCA_03">
+			<Text>Kota Kinabalu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MALACCA_04">
+			<Text>Kota Bharu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MALACCA_05">
+			<Text>George Town</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MALACCA_06">
+			<Text>Kuching</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MALACCA_07">
+			<Text>Petaling Jaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MALACCA_08">
+			<Text>Shah Alam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MALACCA_09">
+			<Text>Ipoh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MALACCA_10">
+			<Text>Johor Bahru</Text>
+		</Row>
+		<!-- Mogadishu (somalia) -->
+		<Row Tag="TXT_KEY_CITYSTATE_MOGADISHU_DESCR">
+			<Text>Somalia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOGADISHU_ADJECTIVE">
+			<Text>Somalian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOGADISHU_01">
+			<Text>Mogadishu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOGADISHU_02">
+			<Text>Hargeisa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOGADISHU_03">
+			<Text>Bosaso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOGADISHU_04">
+			<Text>Borama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOGADISHU_05">
+			<Text>Galkayo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOGADISHU_06">
+			<Text>Lasanod</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOGADISHU_07">
+			<Text>Merca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOGADISHU_08">
+			<Text>Jamame</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOGADISHU_09">
+			<Text>Borama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOGADISHU_10">
+			<Text>Kismayo</Text>
+		</Row>
+		<!-- Byblos (phoenician city / lebanon) -->
+		<Row Tag="TXT_KEY_CITYSTATE_BYBLOS_DESCR">
+			<Text>Jubayl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BYBLOS_ADJECTIVE">
+			<Text>Phoenician</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BYBLOS_01">
+			<Text>Byblos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BYBLOS_02">
+			<Text>Beirut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BYBLOS_03">
+			<Text>Tripoli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BYBLOS_04">
+			<Text>Sidon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BYBLOS_05">
+			<Text>Jounieh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BYBLOS_06">
+			<Text>Aley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BYBLOS_07">
+			<Text>Tyre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BYBLOS_08">
+			<Text>Shheem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BYBLOS_09">
+			<Text>Baskinta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BYBLOS_10">
+			<Text>Choueir</Text>
+		</Row>
+		<!-- Kyzyl  (russian federation - tyva republic) -->
+		<Row Tag="TXT_KEY_CITYSTATE_KYZYL_DESCR">
+			<Text>Tyva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KYZYL_ADJECTIVE">
+			<Text>Tyvan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KYZYL_01">
+			<Text>Kyzyl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KYZYL_02">
+			<Text>Ak-Dovurak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KYZYL_03">
+			<Text>Chadan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KYZYL_04">
+			<Text>Shagonar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KYZYL_05">
+			<Text>Turan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KYZYL_06">
+			<Text>Khovu-Aksy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KYZYL_07">
+			<Text>Kaa-Khem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KYZYL_08">
+			<Text>Barun-Khemchiksky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KYZYL_09">
+			<Text>Kaa-Khemsky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KYZYL_10">
+			<Text>Tandinsky</Text>
+		</Row>
+		<!-- Ife (nigeria) -->
+		<Row Tag="TXT_KEY_CITYSTATE_IFE_DESCR">
+			<Text>Nigeria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_IFE_ADJECTIVE">
+			<Text>Nigerian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_IFE_01">
+			<Text>Ife</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_IFE_02">
+			<Text>Lagos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_IFE_03">
+			<Text>Kano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_IFE_04">
+			<Text>Ibadan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_IFE_05">
+			<Text>Abuja</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_IFE_06">
+			<Text>Kaduna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_IFE_07">
+			<Text>Port Harcourt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_IFE_08">
+			<Text>Aba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_IFE_09">
+			<Text>Ogbomosho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_IFE_10">
+			<Text>Maiduguri</Text>
+		</Row>
+		<!-- Kiev (ukraine) -->
+		<Row Tag="TXT_KEY_CITYSTATE_KIEV_DESCR">
+			<Text>Ukraine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KIEV_ADJECTIVE">
+			<Text>Ukrainian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KIEV_01">
+			<Text>Kyiv</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KIEV_02">
+			<Text>Karkiv</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KIEV_03">
+			<Text>Dnipropetrovsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KIEV_04">
+			<Text>Odesa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KIEV_05">
+			<Text>Donetsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KIEV_06">
+			<Text>Zaporizhia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KIEV_07">
+			<Text>Lviv</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KIEV_08">
+			<Text>Kryvyi Rih</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KIEV_09">
+			<Text>Nova Kakhova</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KIEV_10">
+			<Text>Mykolaiv</Text>
+		</Row>
+		<!-- Buenos Aires (argentina) -->
+		<Row Tag="TXT_KEY_CITYSTATE_BUENOS_AIRES_DESCR">
+			<Text>Argentina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUENOS_AIRES_ADJECTIVE">
+			<Text>Argentinian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUENOS_AIRES_01">
+			<Text>Buenos Aires</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUENOS_AIRES_02">
+			<Text>Cordoba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUENOS_AIRES_03">
+			<Text>Rosario</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUENOS_AIRES_04">
+			<Text>Mendoza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUENOS_AIRES_05">
+			<Text>San Miguel de Tucuman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUENOS_AIRES_06">
+			<Text>La Plata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUENOS_AIRES_07">
+			<Text>Mar del Plata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUENOS_AIRES_08">
+			<Text>Salta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUENOS_AIRES_09">
+			<Text>Santa Fe de la Vera Cruz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUENOS_AIRES_10">
+			<Text>San Juan</Text>
+		</Row>
+		<!-- Mbanza Kongo (d.r. congo, angola, cabinda) - names taken from a 1770 map in northwestern university library -->
+		<Row Tag="TXT_KEY_CITYSTATE_MBANZA_KONGO_DESCR">
+			<Text>M'banza-Kongo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MBANZA_KONGO_ADJECTIVE">
+			<Text>Kongolese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MBANZA_KONGO_01">
+			<Text>M'banza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MBANZA_KONGO_02">
+			<Text>Monbalas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MBANZA_KONGO_03">
+			<Text>Danda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MBANZA_KONGO_04">
+			<Text>Sundo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MBANZA_KONGO_05">
+			<Text>Tinda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MBANZA_KONGO_06">
+			<Text>Luiola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MBANZA_KONGO_07">
+			<Text>Pango</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MBANZA_KONGO_08">
+			<Text>Angote</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MBANZA_KONGO_09">
+			<Text>Patta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MBANZA_KONGO_10">
+			<Text>Zoca</Text>
+		</Row>
+		<!-- Kabul (afghanistan) -->
+		<Row Tag="TXT_KEY_CITYSTATE_KABUL_DESCR">
+			<Text>Afghanistan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KABUL_ADJECTIVE">
+			<Text>Afghan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KABUL_01">
+			<Text>Kabul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KABUL_02">
+			<Text>Kandahar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KABUL_03">
+			<Text>Herat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KABUL_04">
+			<Text>Mazar-i-Sharif</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KABUL_05">
+			<Text>Kunduz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KABUL_06">
+			<Text>Taloqan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KABUL_07">
+			<Text>Jalalabad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KABUL_08">
+			<Text>Puli Khumri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KABUL_09">
+			<Text>Charikar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KABUL_10">
+			<Text>Sheberghan</Text>
+		</Row>
+		<!-- Sofia (bulgaria) -->
+		<Row Tag="TXT_KEY_CITYSTATE_SOFIA_DESCR">
+			<Text>Bulgaria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SOFIA_ADJECTIVE">
+			<Text>Bulgar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SOFIA_01">
+			<Text>Sofia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SOFIA_02">
+			<Text>Plovdiv</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SOFIA_03">
+			<Text>Varna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SOFIA_04">
+			<Text>Burgas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SOFIA_05">
+			<Text>Ruse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SOFIA_06">
+			<Text>Stara Zagora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SOFIA_07">
+			<Text>Pleven</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SOFIA_08">
+			<Text>Sliven</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SOFIA_09">
+			<Text>Dobrich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SOFIA_10">
+			<Text>Shumen</Text>
+		</Row>
+		<!-- Ur (sumeria - city list taken from sumeria civ 4 city list, thx) breaking the rules here, not putting Ur first -->
+		<Row Tag="TXT_KEY_CITYSTATE_UR_DESCR">
+			<Text>Sumeria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_UR_ADJECTIVE">
+			<Text>Sumerian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_UR_01">
+			<Text>Uruk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_UR_02">
+			<Text>Eridu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_UR_03">
+			<Text>Kish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_UR_04">
+			<Text>Lagash</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_UR_05">
+			<Text>Ur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_UR_06">
+			<Text>Nibru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_UR_07">
+			<Text>Bad-Tibira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_UR_08">
+			<Text>Zimbir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_UR_09">
+			<Text>Shuruppak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_UR_10">
+			<Text>Umma</Text>
+		</Row>
+		<!-- Melbourne (australia - victoria) -->
+		<Row Tag="TXT_KEY_CITYSTATE_MELBOURNE_DESCR">
+			<Text>Victoria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MELBOURNE_ADJECTIVE">
+			<Text>Victorian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MELBOURNE_01">
+			<Text>Melbourne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MELBOURNE_02">
+			<Text>Geelong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MELBOURNE_03">
+			<Text>Ballarat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MELBOURNE_04">
+			<Text>Bendigo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MELBOURNE_05">
+			<Text>Shepparton-Mooroopna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MELBOURNE_06">
+			<Text>Melton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MELBOURNE_07">
+			<Text>Sunbury</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MELBOURNE_08">
+			<Text>Pakenham</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MELBOURNE_09">
+			<Text>Mildura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MELBOURNE_10">
+			<Text>Wodonga</Text>
+		</Row>
+		<!-- Bogota (columbia) -->
+		<Row Tag="TXT_KEY_CITYSTATE_BOGOTA_DESCR">
+			<Text>Columbia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BOGOTA_ADJECTIVE">
+			<Text>Columbian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BOGOTA_01">
+			<Text>Bogota</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BOGOTA_02">
+			<Text>Medellin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BOGOTA_03">
+			<Text>Cali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BOGOTA_04">
+			<Text>Barranquilla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BOGOTA_05">
+			<Text>Catagena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BOGOTA_06">
+			<Text>Cucuta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BOGOTA_07">
+			<Text>Bucaramanga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BOGOTA_08">
+			<Text>Ibague</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BOGOTA_09">
+			<Text>Soledad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BOGOTA_10">
+			<Text>Pereira</Text>
+		</Row>
+		<!-- Vilnius (lithuania) -->
+		<Row Tag="TXT_KEY_CITYSTATE_VILNIUS_DESCR">
+			<Text>Lithuania</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VILNIUS_ADJECTIVE">
+			<Text>Lithuanian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VILNIUS_01">
+			<Text>Vilnius</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VILNIUS_02">
+			<Text>Kaunas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VILNIUS_03">
+			<Text>Klaipeda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VILNIUS_04">
+			<Text>Siauliai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VILNIUS_05">
+			<Text>Panevezys</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VILNIUS_06">
+			<Text>Alytus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VILNIUS_07">
+			<Text>Marijampole</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VILNIUS_08">
+			<Text>Mazeikiai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VILNIUS_09">
+			<Text>Jonava</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VILNIUS_10">
+			<Text>Utena</Text>
+		</Row>
+		<!-- Wellington (new zealand) -->
+		<Row Tag="TXT_KEY_CITYSTATE_WELLINGTON_DESCR">
+			<Text>New Zealand</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WELLINGTON_ADJECTIVE">
+			<Text>New Zealand</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WELLINGTON_01">
+			<Text>Wellington</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WELLINGTON_02">
+			<Text>Auckland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WELLINGTON_03">
+			<Text>Christchurch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WELLINGTON_04">
+			<Text>Hamilton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WELLINGTON_05">
+			<Text>Tauranga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WELLINGTON_06">
+			<Text>Napier-Hastings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WELLINGTON_07">
+			<Text>Dunedin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WELLINGTON_08">
+			<Text>Palmerston North</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WELLINGTON_09">
+			<Text>Nelson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WELLINGTON_10">
+			<Text>New Plymouth</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

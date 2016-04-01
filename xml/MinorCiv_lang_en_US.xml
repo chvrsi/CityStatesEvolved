@@ -9,7 +9,7 @@
 			<Text>Ex Uno, Plures</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_CS_EVOLVED">
-			<Text>Cannot develop Social Policies, National or World Wonders.  To compensate, the state as a whole experiences 50% less [ICON_HAPPINESS_4] Unhappiness from new cities and citizens.</Text>
+			<Text>Cannot develop Social Policies, National or World Wonders.  To compensate, the state as a whole experiences 100% less [ICON_HAPPINESS_4] Unhappiness from new cities and 25% less [ICON_HAPPINESS_4] Unhappiness from its' citizens.</Text>
 		</Row>
 	</Language_en_US>
 </GameData>

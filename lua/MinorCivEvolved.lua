@@ -27,6 +27,43 @@ function MinorCivEvolvedStartTurn(iPlayer)
 
 	-- only iterate for minor civs
 	if pMinor:IsMinorCiv() then
+		-- Based on type, grant free buildings
+		iTrait = pMinor:GetMinorCivTrait()
+		iBuilding = -1;
+
+		if (iTrait == MinorCivTraitTypes.MINOR_CIV_TRAIT_CULTURED) then
+			-- Free Monument (+2c)
+			iBuilding = GameInfo.Buildings.BUILDING_MONUMENT
+		end
+
+		if (iTrait == MinorCivTraitTypes.MINOR_TRAIT_MILITARISTIC) then
+			-- Free Barracks (+15xp)
+			iBuilding = GameInfo.Buildings.BUILDING_BARRACKS
+		end
+
+		if (iTrait == MinorCivTraitTypes.MINOR_TRAIT_MARITIME) then
+			-- Free Lighthouse (+1f)
+			iBuilding = GameInfo.Buildings.BUILDING_LIGHTHOUSE
+		end
+
+		if (iTrait == MinorCivTraitTypes.MINOR_TRAIT_MERCANTILE) then
+			-- Free Market (+1g +25%g)
+			iBuilding = GameInfo.Buildings.BUILDING_MARKET
+		end
+
+		if (iTrait == MinorCivTraitTypes.MINOR_TRAIT_RELIGIOUS) then
+			-- Free Pyramid (+2f/2s)
+			iBuilding = GameInfo.Buildings.BUILDING_PYRAMID
+		end
+
+		if (iBuilding ~= -1) then
+			for pMinorCity in pMinor:Cities() do
+				if not pMinorCity:IsHasBuilding(iBuilding) then
+					pMinorCity:SetNumRealBuilding(iBuilding, 1)
+				end
+			end
+		end
+
 		-- print("MinorCivEvolvedStartTurn: Iterating minors, checking potential for peace.");
 		-- iterate over all minors.. make peace (small percentage chance)
 		for j = GameDefines.MAX_MAJOR_CIVS, GameDefines.MAX_CIV_PLAYERS - 1, 1 do
@@ -119,9 +156,9 @@ function MinorCivEvolvedLimitSettlers(iPlayer, iUnitType)
 			local iNumCities = pMinor:GetNumCities()
 			local iNumSettlers = pMinor:GetUnitClassCountPlusMaking(GameInfoTypes.UNITCLASS_SETTLER)
 			local iPotentialCities = iNumCities + iNumSettlers
-			local iCityCap = pMinor:GetCurrentEra() + 1
+			local iCityCap = pMinor:GetCurrentEra() + 2
 
-			print("MinorCivEvolvedLimitSettlers: [" .. pMinor:GetName() .. "] Potential Cities [" .. iPotentialCities .. "] Era+1 [" .. iCityCap .."]")
+			print("MinorCivEvolvedLimitSettlers: [" .. pMinor:GetName() .. "] Potential Cities [" .. iPotentialCities .. "] Era+2 [" .. iCityCap .."]")
 
 			-- limit of 2 (cities + settlers) in ancient era; add 1 per era
 			if (iPotentialCities >= iCityCap) then
@@ -138,6 +175,11 @@ function MinorCivEvolvedLimitSettlersByCity(iPlayer, iCity, iUnitType)
 	return MinorCivEvolvedLimitSettlers(iPlayer, iUnitType)
 end
 
+-- Don't like settler limits?  Comment these two lines out by putting two dashes in front of them.
+
 GameEvents.PlayerCanTrain.Add(MinorCivEvolvedLimitSettlers);
 GameEvents.CityCanTrain.Add(MinorCivEvolvedLimitSettlersByCity);
+
+-- Don't like city states declaring war?  Comment this line out by putting two dashes in front of it.
+
 GameEvents.PlayerDoTurn.Add(MinorCivEvolvedStartTurn);
