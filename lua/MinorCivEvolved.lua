@@ -31,36 +31,45 @@ function MinorCivEvolvedStartTurn(iPlayer)
 		iTrait = pMinor:GetMinorCivTrait()
 		iBuilding = -1;
 
-		if (iTrait == MinorCivTraitTypes.MINOR_CIV_TRAIT_CULTURED) then
+		if (iTrait == GameInfoTypes.MINOR_TRAIT_CULTURED) then
 			-- Free Monument (+2c)
-			iBuilding = GameInfo.Buildings.BUILDING_MONUMENT
+			iBuilding = GameInfoTypes.BUILDING_MONUMENT
+			-- print("Minor civ [" .. iPlayer .. "], [" .. pMinor:GetName() .."] is type [" .. iTrait .. "] --> Monument (+2c)")
 		end
 
-		if (iTrait == MinorCivTraitTypes.MINOR_TRAIT_MILITARISTIC) then
+		if (iTrait == GameInfoTypes.MINOR_TRAIT_MILITARISTIC) then
 			-- Free Barracks (+15xp)
-			iBuilding = GameInfo.Buildings.BUILDING_BARRACKS
+			iBuilding = GameInfoTypes.BUILDING_BARRACKS
+			-- print("Minor civ [" .. iPlayer .. "], [" .. pMinor:GetName() .."] is type [" .. iTrait .. "] --> Barracks (+15xp)")
 		end
 
-		if (iTrait == MinorCivTraitTypes.MINOR_TRAIT_MARITIME) then
+		if (iTrait == GameInfoTypes.MINOR_TRAIT_MARITIME) then
 			-- Free Lighthouse (+1f)
-			iBuilding = GameInfo.Buildings.BUILDING_LIGHTHOUSE
+			iBuilding = GameInfoTypes.BUILDING_LIGHTHOUSE
+			-- print("Minor civ [" .. iPlayer .. "], [" .. pMinor:GetName() .."] is type [" .. iTrait .. "] --> Lighthouse (+1f)")
 		end
 
-		if (iTrait == MinorCivTraitTypes.MINOR_TRAIT_MERCANTILE) then
+		if (iTrait == GameInfoTypes.MINOR_TRAIT_MERCANTILE) then
 			-- Free Market (+1g +25%g)
-			iBuilding = GameInfo.Buildings.BUILDING_MARKET
+			iBuilding = GameInfoTypes.BUILDING_MARKET
+			-- print("Minor civ [" .. iPlayer .. "], [" .. pMinor:GetName() .."] is type [" .. iTrait .. "] --> Market (1g +25%g)")
 		end
 
-		if (iTrait == MinorCivTraitTypes.MINOR_TRAIT_RELIGIOUS) then
+		if (iTrait == GameInfoTypes.MINOR_TRAIT_RELIGIOUS) then
 			-- Free Pyramid (+2f/2s)
-			iBuilding = GameInfo.Buildings.BUILDING_PYRAMID
+			iBuilding = GameInfoTypes.BUILDING_MAYA_PYRAMID
+			-- print("Minor civ [" .. iPlayer .. "], [" .. pMinor:GetName() .."] is type [" .. iTrait .. "] --> Pyramid (2f/2s)")
 		end
 
-		if (iBuilding ~= -1) then
-			for pMinorCity in pMinor:Cities() do
+		for pMinorCity in pMinor:Cities() do
+			if (iBuilding ~= -1) then
 				if not pMinorCity:IsHasBuilding(iBuilding) then
 					pMinorCity:SetNumRealBuilding(iBuilding, 1)
 				end
+			end
+			-- new: give them the faux "nation state presence" building
+			if not pMinorCity:IsHasBuilding(GameInfoTypes.BUILDING_NATION_STATE_PRESENCE) then
+				pMinorCity:SetNumRealBuilding(GameInfoTypes.BUILDING_NATION_STATE_PRESENCE, 1)
 			end
 		end
 
@@ -158,7 +167,7 @@ function MinorCivEvolvedLimitSettlers(iPlayer, iUnitType)
 			local iPotentialCities = iNumCities + iNumSettlers
 			local iCityCap = pMinor:GetCurrentEra() + 2
 
-			print("MinorCivEvolvedLimitSettlers: [" .. pMinor:GetName() .. "] Potential Cities [" .. iPotentialCities .. "] Era+2 [" .. iCityCap .."]")
+			-- print("MinorCivEvolvedLimitSettlers: [" .. pMinor:GetName() .. "] Potential Cities [" .. iPotentialCities .. "] Era+2 [" .. iCityCap .."]")
 
 			-- limit of 2 (cities + settlers) in ancient era; add 1 per era
 			if (iPotentialCities >= iCityCap) then

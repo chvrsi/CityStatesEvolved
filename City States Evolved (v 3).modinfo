@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="316e8f5e-d240-410d-b87b-9e62051d1dc1" version="3">
+  <Properties>
+    <Name>City States Evolved</Name>
+    <Teaser>Minor Civilizations will build and use settlers, caravans and cargo ships.</Teaser>
+    <Description>City States have evolved into Nation States!
+
+- Nation States will build and use settlers.  They have brand new identities and city lists.  Nation States are limited to one additional city for each passing era.
+
+- Nation States will declare war on one another if their bullying requests expire without action.  They will occasionally make peace with one another, also.
+
+- If you are using custom Civilizations which add Nation States, if the mod maker does not supply a city list the added Nation States will borrow city names from in-game Major Civilizations.
+
+- Nation States experience 100% less unhappiness from cities and 25% less unhappiness from its' citizens.</Description>
+    <Authors>Charsi</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="B468344022C74EB98035E07656E48740" import="0">lua/MinorCivEvolved.lua</File>
+    <File md5="F2B3AFDD4F47D0E8CA9606CC0EF716EF" import="1">sql/MinorCivEvolved.sql</File>
+    <File md5="6AE71F44DB2FDF56A4C059FFDC1972BB" import="1">sql/MinorCivEvolvedNameOverrides.sql</File>
+    <File md5="521A1908E4D0843E770C8650FBEF5F2B" import="1">xml/MinorCivAI.xml</File>
+    <File md5="C9956E28CC1229CE4DF6571465FFEF61" import="1">xml/MinorCivBuildings.xml</File>
+    <File md5="016371B9F177380C3149FE921224E1E3" import="1">xml/MinorCivCityNameOverrides.xml</File>
+    <File md5="3C29C2421AF9694DEAC245BAE7714016" import="1">xml/MinorCivLeaders.xml</File>
+    <File md5="6A2F5E2D0ABFDF35EAF3EC3CF06FAFC2" import="1">xml/MinorCivTrait.xml</File>
+    <File md5="2FCC6A7AB225D202E6B73F90E7D318F8" import="1">xml/MinorCivUnits.xml</File>
+    <File md5="C6EB8B6E3AF92ABB7AF735E2F5DC0059" import="1">xml/MinorCiv_lang_en_US.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>sql/MinorCivEvolved.sql</UpdateDatabase>
+      <UpdateDatabase>xml/MinorCiv_lang_en_US.xml</UpdateDatabase>
+      <UpdateDatabase>xml/MinorCivUnits.xml</UpdateDatabase>
+      <UpdateDatabase>xml/MinorCivAI.xml</UpdateDatabase>
+      <UpdateDatabase>xml/MinorCivTrait.xml</UpdateDatabase>
+      <UpdateDatabase>xml/MinorCivLeaders.xml</UpdateDatabase>
+      <UpdateDatabase>xml/MinorCivBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>xml/MinorCivCityNameOverrides.xml</UpdateDatabase>
+      <UpdateDatabase>sql/MinorCivEvolvedNameOverrides.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="lua/MinorCivEvolved.lua">
+      <Name>MinorCivEvolved.lua</Name>
+      <Description>City States Evolved</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

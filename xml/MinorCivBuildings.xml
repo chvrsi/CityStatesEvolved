@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 09/16/2016 2:54:19 PM -->
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_NATION_STATE_PRESENCE</Type>
+			<BuildingClass>BUILDINGCLASS_COURTHOUSE</BuildingClass>
+			<Help>TXT_KEY_BUILDING_COURTHOUSE_HELP</Help>
+			<Description>TXT_KEY_BUILDING_COURTHOUSE</Description>
+			<Civilopedia>TXT_KEY_BUILDING_COURTHOUSE_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_COURTHOUSE_STRATEGY</Strategy>
+			<ArtDefineTag>COURTHOUSE</ArtDefineTag>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<FaithCost>-1</FaithCost>
+			<MinAreaSize>-1</MinAreaSize>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<NoOccupiedUnhappiness>true</NoOccupiedUnhappiness>
+			<Happiness>6</Happiness>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>63</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_COURTHOUSE</BuildingClassType>
+			<BuildingType>BUILDING_NATION_STATE_PRESENCE</BuildingType>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+</GameData>

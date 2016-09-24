@@ -135,8 +135,8 @@
 			<ReplaceEvolvedWith>VANCOUVER</ReplaceEvolvedWith>
 		</Row>
 		<Row>
-			<MinorCivType>MINOR_CIV_MAINLA</MinorCivType>
-			<ReplaceEvolvedWith>MAINLA</ReplaceEvolvedWith>
+			<MinorCivType>MINOR_CIV_MANILA</MinorCivType>
+			<ReplaceEvolvedWith>MANILA</ReplaceEvolvedWith>
 		</Row>
 		<Row>
 			<MinorCivType>MINOR_CIV_ANTANANARIVO</MinorCivType>
@@ -493,11 +493,11 @@
 			</Set>
 		</Update>
 		<Update>
-			<Where Type="MINOR_CIV_MAINLA"/>
+			<Where Type="MINOR_CIV_MANILA"/>
 			<Set>
-				<Description>TXT_KEY_CITYSTATE_MAINLA_DESCR</Description>
-				<ShortDescription>TXT_KEY_CITYSTATE_MAINLA_DESCR</ShortDescription>
-				<Adjective>TXT_KEY_CITYSTATE_MAINLA_ADJECTIVE</Adjective>
+				<Description>TXT_KEY_CITYSTATE_MANILA_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_MANILA_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_MANILA_ADJECTIVE</Adjective>
 			</Set>
 		</Update>
 		<Update>
@@ -1869,40 +1869,40 @@
 			<Text>Victoria</Text>
 		</Row>
 		<!-- Manila (phillipine) -->
-		<Row Tag="TXT_KEY_CITYSTATE_MAINLA_DESCR">
+		<Row Tag="TXT_KEY_CITYSTATE_MANILA_DESCR">
 			<Text>Philippines</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_MAINLA_ADJECTIVE">
+		<Row Tag="TXT_KEY_CITYSTATE_MANILA_ADJECTIVE">
 			<Text>Philippine</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_MAINLA_01">
+		<Row Tag="TXT_KEY_CITYSTATE_MANILA_01">
 			<Text>Manila</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_MAINLA_02">
+		<Row Tag="TXT_KEY_CITYSTATE_MANILA_02">
 			<Text>Quezon City</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_MAINLA_03">
+		<Row Tag="TXT_KEY_CITYSTATE_MANILA_03">
 			<Text>Caloocan</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_MAINLA_04">
+		<Row Tag="TXT_KEY_CITYSTATE_MANILA_04">
 			<Text>Davao</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_MAINLA_05">
+		<Row Tag="TXT_KEY_CITYSTATE_MANILA_05">
 			<Text>Cebu</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_MAINLA_06">
+		<Row Tag="TXT_KEY_CITYSTATE_MANILA_06">
 			<Text>Zamboanga</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_MAINLA_07">
+		<Row Tag="TXT_KEY_CITYSTATE_MANILA_07">
 			<Text>Antipolo</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_MAINLA_08">
+		<Row Tag="TXT_KEY_CITYSTATE_MANILA_08">
 			<Text>Pasig</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_MAINLA_09">
+		<Row Tag="TXT_KEY_CITYSTATE_MANILA_09">
 			<Text>Taguig</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_MAINLA_10">
+		<Row Tag="TXT_KEY_CITYSTATE_MANILA_10">
 			<Text>Cagayan de Oro</Text>
 		</Row>
 		<!-- Antananarivo (madagascar) -->
