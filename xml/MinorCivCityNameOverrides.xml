@@ -954,31 +954,31 @@
 			<Text>Ragusa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_RAGUSA_02">
-			<Text>Vittoria</Text>
+			<Text>Konavle</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_RAGUSA_03">
-			<Text>Modica</Text>
+			<Text>Župa dubrovačka</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_RAGUSA_04">
-			<Text>Comiso</Text>
+			<Text>Ston</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_RAGUSA_05">
-			<Text>Scicli</Text>
+			<Text>Dubrovačko primorje</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_RAGUSA_06">
-			<Text>Pozzallo</Text>
+			<Text>Mljet</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_RAGUSA_07">
-			<Text>Ispica</Text>
+			<Text>Lastovo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_RAGUSA_08">
-			<Text>Santa Croce Camerina</Text>
+			<Text>Šipan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_RAGUSA_09">
-			<Text>Acate</Text>
+			<Text>Koločep</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_RAGUSA_10">
-			<Text>Chiaramonte Gulfi</Text>
+			<Text>Lopud</Text>
 		</Row>
 		<!-- Sydney (australia - new south wales) -->
 		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY_DESCR">
@@ -2986,7 +2986,7 @@
 			<Text>Lettonie</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_RIGA_ADJECTIVE">
-			<Text>Letton</Text>
+			<Text>letton</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_RIGA_01">
 			<Text>Riga</Text>
@@ -3020,19 +3020,19 @@
 		</Row>
 		<!-- Genoa (italy - liguria) -->
 		<Row Tag="TXT_KEY_CITYSTATE_GENOA_DESCR">
-			<Text>Liguria</Text>
+			<Text>Ligurie</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_GENOA_ADJECTIVE">
-			<Text>Ligurian</Text>
+			<Text>ligure</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_GENOA_01">
-			<Text>Genova</Text>
+			<Text>Gênes</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_GENOA_02">
 			<Text>La Spezia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_GENOA_03">
-			<Text>Savona</Text>
+			<Text>Savone</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_GENOA_04">
 			<Text>Sanremo</Text>
@@ -3047,20 +3047,20 @@
 			<Text>Chiavari</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_GENOA_08">
-			<Text>Ventimiglia</Text>
+			<Text>Vintimille</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_GENOA_09">
-			<Text>Sarzana</Text>
+			<Text>Albengue</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_GENOA_10">
-			<Text>Sestri Levante</Text>
+			<Text>Sarzane</Text>
 		</Row>
 		<!-- Florence (italy - florence) -->
 		<Row Tag="TXT_KEY_CITYSTATE_FLORENCE_DESCR">
 			<Text>Florence</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_FLORENCE_ADJECTIVE">
-			<Text>Florentine</Text>
+			<Text>florentin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_FLORENCE_01">
 			<Text>Florence</Text>
@@ -3069,10 +3069,10 @@
 			<Text>Scandicci</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_FLORENCE_03">
-			<Text>Sesto Fiorentino</Text>
+			<Text>Empoli</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_FLORENCE_04">
-			<Text>Empoli</Text>
+			<Text>Sesto Fiorentino</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_FLORENCE_05">
 			<Text>Campi Bisenzio</Text>
@@ -3081,60 +3081,60 @@
 			<Text>Bagno a Ripoli</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_FLORENCE_07">
-			<Text>Fuceccio</Text>
+			<Text>Fucecchio</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_FLORENCE_08">
-			<Text>Figline e Incisa Valdarno</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_FLORENCE_09">
 			<Text>Pontassieve</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_FLORENCE_10">
+		<Row Tag="TXT_KEY_CITYSTATE_FLORENCE_09">
 			<Text>Lastra a Signa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_FLORENCE_10">
+			<Text>Signa</Text>
 		</Row>
 		<!-- Ragusa (italy - ragusa) -->
 		<Row Tag="TXT_KEY_CITYSTATE_RAGUSA_DESCR">
-			<Text>Ragusa</Text>
+			<Text>Raguse</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_RAGUSA_ADJECTIVE">
-			<Text>Ragusan</Text>
+			<Text>ragusain</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_RAGUSA_01">
-			<Text>Ragusa</Text>
+			<Text>Raguse</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_RAGUSA_02">
-			<Text>Vittoria</Text>
+			<Text>Konavle</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_RAGUSA_03">
-			<Text>Modica</Text>
+			<Text>Župa dubrovačka</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_RAGUSA_04">
-			<Text>Comiso</Text>
+			<Text>Ston</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_RAGUSA_05">
-			<Text>Scicli</Text>
+			<Text>Dubrovačko primorje</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_RAGUSA_06">
-			<Text>Pozzallo</Text>
+			<Text>Mljet</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_RAGUSA_07">
-			<Text>Ispica</Text>
+			<Text>Lastovo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_RAGUSA_08">
-			<Text>Santa Croce Camerina</Text>
+			<Text>Šipan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_RAGUSA_09">
-			<Text>Acate</Text>
+			<Text>Koločep</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_RAGUSA_10">
-			<Text>Chiaramonte Gulfi</Text>
+			<Text>Lopud</Text>
 		</Row>
 		<!-- Sydney (australia - new south wales) -->
 		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY_DESCR">
-			<Text>New South Wales</Text>
+			<Text>Nouvelle-Galles du Sud</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY_ADJECTIVE">
-			<Text>New South Wales</Text>
+			<Text>néo-gallois</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY_01">
 			<Text>Sydney</Text>
@@ -3149,16 +3149,16 @@
 			<Text>Wollongong</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY_05">
-			<Text>Maitland</Text>
+			<Text>Albury-Wodonga</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY_06">
-			<Text>Tweed Heads</Text>
+			<Text>Maitland</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY_07">
-			<Text>Wagga Wagga</Text>
+			<Text>Coffs Harbour</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY_08">
-			<Text>Albury</Text>
+			<Text>Wagga Wagga</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY_09">
 			<Text>Port Macquarie</Text>
@@ -3168,84 +3168,84 @@
 		</Row>
 		<!-- Quebec City (canada - quebec) -->
 		<Row Tag="TXT_KEY_CITYSTATE_QUEBEC_CITY_DESCR">
-			<Text>Quebec</Text>
+			<Text>Québec</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_QUEBEC_CITY_ADJECTIVE">
-			<Text>Quebecois</Text>
+			<Text>Québécois</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_QUEBEC_CITY_01">
-			<Text>Quebec</Text>
+			<Text>Québec</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_QUEBEC_CITY_02">
-			<Text>Montreal</Text>
+			<Text>Montréal</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_QUEBEC_CITY_03">
-			<Text>Ottawa-Gatineau</Text>
+			<Text>Laval</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_QUEBEC_CITY_04">
-			<Text>Sherbrooke</Text>
+			<Text>Gatineau</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_QUEBEC_CITY_05">
-			<Text>Trois-Rivieres</Text>
+			<Text>Longueuil</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_QUEBEC_CITY_06">
-			<Text>Chicoutimi-Jonquiere</Text>
+			<Text>Sherbrooke</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_QUEBEC_CITY_07">
-			<Text>Saint-Jean-sur-Richelieu</Text>
+			<Text>Saguenay</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_QUEBEC_CITY_08">
-			<Text>Chateauguay</Text>
+			<Text>Lévis</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_QUEBEC_CITY_09">
-			<Text>Drummondville</Text>
+			<Text>Trois-Rivières</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_QUEBEC_CITY_10">
-			<Text>Saint-Jerome</Text>
+			<Text>Terrebonne</Text>
 		</Row>
 		<!-- Bucharest (romania) -->
 		<Row Tag="TXT_KEY_CITYSTATE_BUCHAREST_DESCR">
-			<Text>Romania</Text>
+			<Text>Roumanie</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BUCHAREST_ADJECTIVE">
-			<Text>Romany</Text>
+			<Text>roumain</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BUCHAREST_01">
-			<Text>Bucharest</Text>
+			<Text>Bucarest</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BUCHAREST_02">
 			<Text>Cluj-Napoca</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BUCHAREST_03">
-			<Text>Timisoara</Text>
+			<Text>Timișoara</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BUCHAREST_04">
-			<Text>Iasi</Text>
+			<Text>Iași</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BUCHAREST_05">
-			<Text>Constanta</Text>
+			<Text>Constanța</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BUCHAREST_06">
 			<Text>Craiova</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BUCHAREST_07">
-			<Text>Brasov</Text>
+			<Text>Brașov</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BUCHAREST_08">
-			<Text>Galati</Text>
+			<Text>Galați</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BUCHAREST_09">
-			<Text>Ploiesti</Text>
+			<Text>Ploiești</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BUCHAREST_10">
 			<Text>Oradea</Text>
 		</Row>
 		<!-- Belgrade (serbia) -->
 		<Row Tag="TXT_KEY_CITYSTATE_BELGRADE_DESCR">
-			<Text>Serbia</Text>
+			<Text>Serbie</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BELGRADE_ADJECTIVE">
-			<Text>Serbian</Text>
+			<Text>serbe</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BELGRADE_01">
 			<Text>Belgrade</Text>
@@ -3254,7 +3254,7 @@
 			<Text>Novi Sad</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BELGRADE_03">
-			<Text>Nis</Text>
+			<Text>Niš</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BELGRADE_04">
 			<Text>Kragujevac</Text>
@@ -3263,35 +3263,35 @@
 			<Text>Subotica</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BELGRADE_06">
-			<Text>Zrenjanin</Text>
+			<Text>Leskovac</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BELGRADE_07">
-			<Text>Pancevo</Text>
+			<Text>Zrenjanin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BELGRADE_08">
-			<Text>Cacak</Text>
+			<Text>Pančevo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BELGRADE_09">
-			<Text>Kraljevo</Text>
+			<Text>Čačak</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BELGRADE_10">
 			<Text>Novi Pazar</Text>
 		</Row>
 		<!-- Brussels (belgium - wallonia) -->
 		<Row Tag="TXT_KEY_CITYSTATE_BRUSSELS_DESCR">
-			<Text>Wallonia</Text>
+			<Text>Wallonie</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BRUSSELS_ADJECTIVE">
-			<Text>Walloon</Text>
+			<Text>wallon</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BRUSSELS_01">
-			<Text>Brussels</Text>
+			<Text>Bruxelles</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BRUSSELS_02">
 			<Text>Charleroi</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BRUSSELS_03">
-			<Text>Liege</Text>
+			<Text>Liège</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BRUSSELS_04">
 			<Text>Namur</Text>
@@ -3300,7 +3300,7 @@
 			<Text>Mons</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BRUSSELS_06">
-			<Text>La Louviere</Text>
+			<Text>La Louvière</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BRUSSELS_07">
 			<Text>Tournai</Text>
@@ -3309,23 +3309,23 @@
 			<Text>Seraing</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BRUSSELS_09">
-			<Text>Mouscron</Text>
+			<Text>Verviers</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BRUSSELS_10">
-			<Text>Verviers</Text>
+			<Text>Mouscron</Text>
 		</Row>
 		<!-- Monaco (monaco) -->
 		<Row Tag="TXT_KEY_CITYSTATE_MONACO_DESCR">
 			<Text>Monaco</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MONACO_ADJECTIVE">
-			<Text>Monaco</Text>
+			<Text>monégasque</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MONACO_01">
 			<Text>Monaco</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MONACO_02">
-			<Text>Monte Carlo</Text>
+			<Text>Monte-Carlo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MONACO_03">
 			<Text>La Condamine</Text>
@@ -3334,7 +3334,7 @@
 			<Text>Fontvieille</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MONACO_05">
-			<Text>Moneghetti</Text>
+			<Text>Les Moneghetti</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MONACO_06">
 			<Text>Larvotto</Text>
@@ -3343,23 +3343,23 @@
 			<Text>La Rousse</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MONACO_08">
-			<Text>Saint Michel</Text>
+			<Text>Ravin de Sainte-Dévote</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MONACO_09">
-			<Text>La Colle</Text>
+			<Text>Jardin exotique</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MONACO_10">
-			<Text>Les Revoires</Text>
+			<Text>Le Portier</Text>
 		</Row>
 		<!-- Kathmandu (nepal) -->
 		<Row Tag="TXT_KEY_CITYSTATE_KATHMANDU_DESCR">
-			<Text>Nepal</Text>
+			<Text>Népal</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KATHMANDU_ADJECTIVE">
-			<Text>Nepalese</Text>
+			<Text>népalais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KATHMANDU_01">
-			<Text>Kathmandu</Text>
+			<Text>Katmandou</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KATHMANDU_02">
 			<Text>Pokhara</Text>
@@ -3368,81 +3368,81 @@
 			<Text>Lalitpur</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KATHMANDU_04">
-			<Text>Birganj</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_KATHMANDU_05">
 			<Text>Biratnagar</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_KATHMANDU_06">
+		<Row Tag="TXT_KEY_CITYSTATE_KATHMANDU_05">
 			<Text>Bharatpur</Text>
 		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KATHMANDU_06">
+			<Text>Birganj</Text>
+		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KATHMANDU_07">
-			<Text>Janakpur</Text>
+			<Text>Butwal</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KATHMANDU_08">
-			<Text>Hetauda</Text>
+			<Text>Dharan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KATHMANDU_09">
-			<Text>Nepalganj</Text>
+			<Text>Bhimdatta</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KATHMANDU_10">
-			<Text>Itahari</Text>
+			<Text>Dhangadhi</Text>
 		</Row>
 		<!-- Hanoi (vietnam) -->
 		<Row Tag="TXT_KEY_CITYSTATE_HANOI_DESCR">
-			<Text>Vietnam</Text>
+			<Text>Viêt Nam</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_HANOI_ADJECTIVE">
-			<Text>Vietnamese</Text>
+			<Text>vietnamien</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_HANOI_01">
-			<Text>Ha Noi</Text>
+			<Text>Hanoï</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_HANOI_02">
-			<Text>Ho Chi Minh City</Text>
+			<Text>Hô-Chi-Minh-Ville</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_HANOI_03">
-			<Text>Hai Phong</Text>
+			<Text>Haïphong</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_HANOI_04">
-			<Text>Can Tho</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_HANOI_05">
 			<Text>Da Nang</Text>
 		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HANOI_05">
+			<Text>Biên Hòa</Text>
+		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_HANOI_06">
-			<Text>Bien Hoa</Text>
+			<Text>Hué</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_HANOI_07">
-			<Text>Phan Rang-Thap Cham</Text>
+			<Text>Nha Trang</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_HANOI_08">
-			<Text>Son La</Text>
+			<Text>Cần Thơ</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_HANOI_09">
-			<Text>Mong Cai</Text>
+			<Text>Rạch Giá</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_HANOI_10">
-			<Text>Tuyen Quang</Text>
+			<Text>Vũng Tàu</Text>
 		</Row>
 		<!-- Lhasa (tibet) -->
 		<Row Tag="TXT_KEY_CITYSTATE_LHASA_DESCR">
 			<Text>Tibet</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_LHASA_ADJECTIVE">
-			<Text>Tibetan</Text>
+			<Text>tibétain</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_LHASA_01">
-			<Text>Lhasa</Text>
+			<Text>Lhassa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_LHASA_02">
-			<Text>Shigatse</Text>
+			<Text>Shigatsé</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_LHASA_03">
-			<Text>Gyantse</Text>
+			<Text>Gyantsé</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_LHASA_04">
-			<Text>Qamdo</Text>
+			<Text>Chamdo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_LHASA_05">
 			<Text>Shiquanhe</Text>
@@ -3454,57 +3454,57 @@
 			<Text>Bamda</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_LHASA_08">
-			<Text>Rutog</Text>
+			<Text>Rudok</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_LHASA_09">
-			<Text>Nyingchi</Text>
+			<Text>Linzhi</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_LHASA_10">
-			<Text>Nedong</Text>
+			<Text>Nédong</Text>
 		</Row>
 		<!-- Almaty (khazakstan) -->
 		<Row Tag="TXT_KEY_CITYSTATE_ALMATY_DESCR">
-			<Text>Khazakhstan</Text>
+			<Text>Kazakhstan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ALMATY_ADJECTIVE">
-			<Text>Khazak</Text>
+			<Text>kazakhstanais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ALMATY_01">
 			<Text>Almaty</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ALMATY_02">
-			<Text>Shymkent</Text>
+			<Text>Noursoultan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ALMATY_03">
-			<Text>Karagandy</Text>
+			<Text>Chimkent</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ALMATY_04">
-			<Text>Taraz</Text>
+			<Text>Karaganda</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ALMATY_05">
-			<Text>Astana</Text>
+			<Text>Aktioubé</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ALMATY_06">
 			<Text>Pavlodar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ALMATY_07">
-			<Text>Oskemen</Text>
+			<Text>Taraz</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ALMATY_08">
-			<Text>Aktobe</Text>
+			<Text>Semeï</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ALMATY_09">
-			<Text>Konstanay</Text>
+			<Text>Öskemen</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ALMATY_10">
-			<Text>Petropavl</Text>
+			<Text>Kostanaï</Text>
 		</Row>
 		<!-- Kuala Lumpur (malaysia province) -->
 		<Row Tag="TXT_KEY_CITYSTATE_KUALA_LUMPUR_DESCR">
-			<Text>Federation of Malaya</Text>
+			<Text>Fédération de Malaisie</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KUALA_LUMPUR_ADJECTIVE">
-			<Text>Malay</Text>
+			<Text>malaisien</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KUALA_LUMPUR_01">
 			<Text>Kuala Lumpur</Text>
@@ -3538,13 +3538,13 @@
 		</Row>
 		<!-- Singapore (singapore) -->
 		<Row Tag="TXT_KEY_CITYSTATE_SINGAPORE_DESCR">
-			<Text>Singapore</Text>
+			<Text>Singapour</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_SINGAPORE_ADJECTIVE">
-			<Text>Singaporean</Text>
+			<Text>Singapourien</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_SINGAPORE_01">
-			<Text>Singapore</Text>
+			<Text>Singapour</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_SINGAPORE_02">
 			<Text>Bukit Merah</Text>
@@ -3578,7 +3578,7 @@
 			<Text>Panama</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_PANAMA_CITY_ADJECTIVE">
-			<Text>Panamanian</Text>
+			<Text>Panaméen</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_PANAMA_CITY_01">
 			<Text>Panama</Text>
@@ -3596,7 +3596,7 @@
 			<Text>Las Cumbres</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_PANAMA_CITY_06">
-			<Text>Colon</Text>
+			<Text>Colón</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_PANAMA_CITY_07">
 			<Text>La Chorrera</Text>
@@ -3608,57 +3608,57 @@
 			<Text>Santiago de Veraguas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_PANAMA_CITY_10">
-			<Text>Chitre</Text>
+			<Text>Chitré</Text>
 		</Row>
 		<!-- Cape Town (south africa western cape) -->
 		<Row Tag="TXT_KEY_CITYSTATE_CAPE_TOWN_DESCR">
-			<Text>Cape Town</Text>
+			<Text>Cap-Occidental</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_CAPE_TOWN_ADJECTIVE">
-			<Text>Cape</Text>
+			<Text>captonien</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_CAPE_TOWN_01">
-			<Text>Cape Town</Text>
+			<Text>Le Cape</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_CAPE_TOWN_02">
-			<Text>George</Text>
+			<Text>Wellington</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_CAPE_TOWN_03">
 			<Text>Paarl</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_CAPE_TOWN_04">
-			<Text>Worcester</Text>
+			<Text>George</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_CAPE_TOWN_05">
-			<Text>Atlantis</Text>
+			<Text>Worcester</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_CAPE_TOWN_06">
-			<Text>Knynsa</Text>
+			<Text>Atlantis</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_CAPE_TOWN_07">
-			<Text>Mossel Bay</Text>
+			<Text>Knysna</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_CAPE_TOWN_08">
-			<Text>Oudtshoorn</Text>
+			<Text>Mossel Bay</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_CAPE_TOWN_09">
-			<Text>Stellenbosch</Text>
+			<Text>Oudtshoorn</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_CAPE_TOWN_10">
-			<Text>Wellington</Text>
+			<Text>Stellenbosch</Text>
 		</Row>
 		<!-- Sidon (phoenician city / lebanon) -->
 		<Row Tag="TXT_KEY_CITYSTATE_SIDON_DESCR">
-			<Text>Saida</Text>
+			<Text>Phénicie (Sidon)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_SIDON_ADJECTIVE">
-			<Text>Phoenician</Text>
+			<Text>phéniciens</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_SIDON_01">
 			<Text>Sidon</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_SIDON_02">
-			<Text>Beirut</Text>
+			<Text>Beyrouth</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_SIDON_03">
 			<Text>Tripoli</Text>
@@ -3670,10 +3670,10 @@
 			<Text>Aley</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_SIDON_06">
-			<Text>Tyre</Text>
+			<Text>Tyr</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_SIDON_07">
-			<Text>Shheem</Text>
+			<Text>Chhim</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_SIDON_08">
 			<Text>Byblos</Text>
@@ -3686,16 +3686,16 @@
 		</Row>
 		<!-- Tyre (phoenician city / lebanon) -->
 		<Row Tag="TXT_KEY_CITYSTATE_TYRE_DESCR">
-			<Text>Sur</Text>
+			<Text>Phénicie (Tyr)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_TYRE_ADJECTIVE">
-			<Text>Phoenician</Text>
+			<Text>phéniciens</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_TYRE_01">
-			<Text>Tyre</Text>
+			<Text>Tyr</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_TYRE_02">
-			<Text>Beirut</Text>
+			<Text>Beyrouth</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_TYRE_03">
 			<Text>Tripoli</Text>
@@ -3710,7 +3710,7 @@
 			<Text>Aley</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_TYRE_07">
-			<Text>Shheem</Text>
+			<Text>Chhim</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_TYRE_08">
 			<Text>Byblos</Text>
@@ -3723,47 +3723,47 @@
 		</Row>
 		<!-- Antwerp (belgium - flanders) -->
 		<Row Tag="TXT_KEY_CITYSTATE_ANTWERP_DESCR">
-			<Text>Flanders</Text>
+			<Text>Flandre</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ANTWERP_ADJECTIVE">
-			<Text>Flemish</Text>
+			<Text>flamand</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ANTWERP_01">
-			<Text>Antwerp</Text>
+			<Text>Anvers</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ANTWERP_02">
-			<Text>Ghent</Text>
+			<Text>Gand</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ANTWERP_03">
 			<Text>Bruges</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ANTWERP_04">
-			<Text>Leuven</Text>
+			<Text>Louvain</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ANTWERP_05">
-			<Text>Mechelen</Text>
+			<Text>Malines</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ANTWERP_06">
-			<Text>Aalst</Text>
+			<Text>Alost</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ANTWERP_07">
-			<Text>Kortrijk</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_ANTWERP_08">
 			<Text>Hasselt</Text>
 		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ANTWERP_08">
+			<Text>Courtrai</Text>
+		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ANTWERP_09">
-			<Text>Sint-Niklaas</Text>
+			<Text>Saint-Nicolas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ANTWERP_10">
-			<Text>Ostend</Text>
+			<Text>Ostende</Text>
 		</Row>
 		<!-- Cahokia (ancient american indian) very hard to find anything :/ -->
 		<Row Tag="TXT_KEY_CITYSTATE_CAHOKIA_DESCR">
-			<Text>Cahokia</Text>
+			<Text>Civilisation Mississippienne</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_CAHOKIA_ADJECTIVE">
-			<Text>Cahokian</Text>
+			<Text>mississippien</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_CAHOKIA_01">
 			<Text>Cahokia</Text>
@@ -3800,13 +3800,13 @@
 			<Text>Sri Lanka</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_COLOMBO_ADJECTIVE">
-			<Text>Sri Lankan</Text>
+			<Text>srilankais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_COLOMBO_01">
 			<Text>Colombo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_COLOMBO_02">
-			<Text>Dehiwala</Text>
+			<Text>Dehiwala-Mont Lavinia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_COLOMBO_03">
 			<Text>Moratuwa</Text>
@@ -3837,7 +3837,7 @@
 			<Text>Hong Kong</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_HONG_KONG_ADJECTIVE">
-			<Text>Hong Kong</Text>
+			<Text>hongkongais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_HONG_KONG_01">
 			<Text>Hong Kong</Text>
@@ -3871,10 +3871,10 @@
 		</Row>
 		<!-- Ormus (straits of hormuz - iran province hormozgan) -->
 		<Row Tag="TXT_KEY_CITYSTATE_ORMUS_DESCR">
-			<Text>Hormuz</Text>
+			<Text>Ormuz</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ORMUS_ADJECTIVE">
-			<Text>Hormozgan</Text>
+			<Text>ormozgan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ORMUS_01">
 			<Text>Hormuz</Text>
@@ -3886,41 +3886,41 @@
 			<Text>Bandar Lengeh</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ORMUS_04">
-			<Text>Hajiabbad</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_ORMUS_05">
 			<Text>Minab</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_ORMUS_06">
-			<Text>Qeshm</Text>
+		<Row Tag="TXT_KEY_CITYSTATE_ORMUS_05">
+			<Text>Bandar Tcharak</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_ORMUS_07">
+		<Row Tag="TXT_KEY_CITYSTATE_ORMUS_06">
 			<Text>Jask</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_ORMUS_08">
+		<Row Tag="TXT_KEY_CITYSTATE_ORMUS_07">
 			<Text>Bastak</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_ORMUS_09">
+		<Row Tag="TXT_KEY_CITYSTATE_ORMUS_08">
 			<Text>Bandar Khamir</Text>
 		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ORMUS_09">
+			<Text>Fin</Text>
+		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ORMUS_10">
-			<Text>Parsian</Text>
+			<Text>Qechm</Text>
 		</Row>
 		<!-- Jerusalem (israel) -->
 		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_DESCR">
-			<Text>Israel</Text>
+			<Text>Israël</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_ADJECTIVE">
-			<Text>Israelite</Text>
+			<Text>israëlien</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_01">
-			<Text>Jerusalem</Text>
+			<Text>Jérusalem</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_02">
-			<Text>Tel Aviv</Text>
+			<Text>Tel Aviv-Jaffa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_03">
-			<Text>Haifa</Text>
+			<Text>Haïfa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_04">
 			<Text>Rishon LeZion</Text>
@@ -3932,10 +3932,10 @@
 			<Text>Ashdod</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_07">
-			<Text>Netanya</Text>
+			<Text>Beer-Shéba</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_08">
-			<Text>Beersheba</Text>
+			<Text>Netanya</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_09">
 			<Text>Holon</Text>
@@ -3945,10 +3945,10 @@
 		</Row>
 		<!-- La Venta (olmec civilization) - hard to find anything, source for last 5: forums.civfanatics.com/showthread.php?t=199296 -->
 		<Row Tag="TXT_KEY_CITYSTATE_LA_VENTA_DESCR">
-			<Text>Olmec</Text>
+			<Text>Olmèques</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_LA_VENTA_ADJECTIVE">
-			<Text>Olmec</Text>
+			<Text>olmèque</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_LA_VENTA_01">
 			<Text>La Venta</Text>
@@ -3957,7 +3957,7 @@
 			<Text>San Lorenzo Tenochtitlan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_LA_VENTA_03">
-			<Text>Laguna de los Cerros</Text>
+			<Text>Teopantecuanitlán</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_LA_VENTA_04">
 			<Text>Tres Zapotes</Text>
@@ -3982,10 +3982,10 @@
 		</Row>
 		<!-- Vancouver (canada - british columbia) -->
 		<Row Tag="TXT_KEY_CITYSTATE_VANCOUVER_DESCR">
-			<Text>British Columbia</Text>
+			<Text>Colombie Britanique</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VANCOUVER_ADJECTIVE">
-			<Text>British Columbian</Text>
+			<Text>britanno-colombien</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VANCOUVER_01">
 			<Text>Vancouver</Text>
@@ -4009,32 +4009,32 @@
 			<Text>Kelowna</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VANCOUVER_08">
-			<Text>Kamloops</Text>
+			<Text>Langley</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VANCOUVER_09">
-			<Text>Nanaimo</Text>
+			<Text>Saanich</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VANCOUVER_10">
-			<Text>Victoria</Text>
+			<Text>Delta</Text>
 		</Row>
 		<!-- Manila (phillipine) -->
 		<Row Tag="TXT_KEY_CITYSTATE_MANILA_DESCR">
-			<Text>Philippines</Text>
+			<Text>Les Philippines</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MANILA_ADJECTIVE">
-			<Text>Philippine</Text>
+			<Text>philippin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MANILA_01">
-			<Text>Manila</Text>
+			<Text>Manille</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MANILA_02">
 			<Text>Quezon City</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MANILA_03">
-			<Text>Caloocan</Text>
+			<Text>Davao</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MANILA_04">
-			<Text>Davao</Text>
+			<Text>Caloona</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MANILA_05">
 			<Text>Cebu</Text>
@@ -4043,60 +4043,60 @@
 			<Text>Zamboanga</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MANILA_07">
-			<Text>Antipolo</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_MANILA_08">
-			<Text>Pasig</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_MANILA_09">
 			<Text>Taguig</Text>
 		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MANILA_08">
+			<Text>Antipolo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MANILA_09">
+			<Text>Pasig</Text>
+		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MANILA_10">
-			<Text>Cagayan de Oro</Text>
+			<Text>Cagaýan de Oro</Text>
 		</Row>
 		<!-- Antananarivo (madagascar) -->
 		<Row Tag="TXT_KEY_CITYSTATE_ANTANANARIVO_DESCR">
 			<Text>Madagascar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ANTANANARIVO_ADJECTIVE">
-			<Text>Madagascar</Text>
+			<Text>malgache</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ANTANANARIVO_01">
 			<Text>Antananarivo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ANTANANARIVO_02">
-			<Text>Toamasina</Text>
+			<Text>Tamatave</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ANTANANARIVO_03">
-			<Text>Antsirabe</Text>
+			<Text>Antsirabé</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ANTANANARIVO_04">
 			<Text>Fianarantsoa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ANTANANARIVO_05">
-			<Text>Toliara</Text>
+			<Text>Majunga</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ANTANANARIVO_06">
-			<Text>Antsiranana</Text>
+			<Text>Tuléar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ANTANANARIVO_07">
-			<Text>Ambovombe</Text>
+			<Text>Diego-Suarez</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ANTANANARIVO_08">
 			<Text>Antanifotsy</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ANTANANARIVO_09">
-			<Text>Amparafaravola</Text>
+			<Text>Ambovombe</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ANTANANARIVO_10">
-			<Text>Tolanaro</Text>
+			<Text>Amparafaravola</Text>
 		</Row>
 		<!-- Milan (italian province) -->
 		<Row Tag="TXT_KEY_CITYSTATE_MILAN_DESCR">
 			<Text>Milan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MILAN_ADJECTIVE">
-			<Text>Milanese</Text>
+			<Text>milanais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MILAN_01">
 			<Text>Milan</Text>
@@ -4126,14 +4126,14 @@
 			<Text>San Giuliano Milanese</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MILAN_10">
-			<Text>Bollate</Text>
+			<Text>Pioltello</Text>
 		</Row>
 		<!-- Mombasa (kenya) -->
 		<Row Tag="TXT_KEY_CITYSTATE_MOMBASA_DESCR">
 			<Text>Kenya</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MOMBASA_ADJECTIVE">
-			<Text>Kenyan</Text>
+			<Text>kényan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MOMBASA_01">
 			<Text>Mombasa</Text>
@@ -4151,26 +4151,26 @@
 			<Text>Eldoret</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MOMBASA_06">
-			<Text>Kehancha</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_MOMBASA_07">
 			<Text>Ruiru</Text>
 		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOMBASA_07">
+			<Text>Machakos</Text>
+		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MOMBASA_08">
-			<Text>Kikuyu</Text>
+			<Text>Meru</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MOMBASA_09">
-			<Text>Kangundo-Tala</Text>
+			<Text>Nyeri</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MOMBASA_10">
-			<Text>Malindi</Text>
+			<Text>Kitale</Text>
 		</Row>
 		<!-- Prague (bohemia/czech republic) -->
 		<Row Tag="TXT_KEY_CITYSTATE_PRAGUE_DESCR">
-			<Text>Czech Republic</Text>
+			<Text>République Tchèque</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_PRAGUE_ADJECTIVE">
-			<Text>Czech</Text>
+			<Text>tchèque</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_PRAGUE_01">
 			<Text>Prague</Text>
@@ -4182,7 +4182,7 @@
 			<Text>Ostrava</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_PRAGUE_04">
-			<Text>Plzen</Text>
+			<Text>Plzeň</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_PRAGUE_05">
 			<Text>Liberec</Text>
@@ -4191,90 +4191,90 @@
 			<Text>Olomouc</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_PRAGUE_07">
-			<Text>Usti nad Labem</Text>
+			<Text>České Budějovice</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_PRAGUE_08">
-			<Text>Ceske Budejovice</Text>
+			<Text>Ústí nad Labem</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_PRAGUE_09">
-			<Text>Hradek Kralove</Text>
+			<Text>Hradec Králové</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_PRAGUE_10">
 			<Text>Pardubice</Text>
 		</Row>
 		<!-- Valletta (malta) -->
 		<Row Tag="TXT_KEY_CITYSTATE_VALLETTA_DESCR">
-			<Text>Malta</Text>
+			<Text>Malte</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VALLETTA_ADJECTIVE">
-			<Text>Maltese</Text>
+			<Text>maltais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VALLETTA_01">
-			<Text>Valletta</Text>
+			<Text>La Vallette</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VALLETTA_02">
-			<Text>Qormi</Text>
+			<Text>Birkirkara</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VALLETTA_03">
-			<Text>Zabbar</Text>
+			<Text>Mosta</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VALLETTA_04">
-			<Text>Zebbug</Text>
+			<Text>Qormi</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VALLETTA_05">
-			<Text>Zetjun</Text>
+			<Text>Żabbar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VALLETTA_06">
-			<Text>Siggiewi</Text>
+			<Text>San Pawl il-Baħar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VALLETTA_07">
-			<Text>Rabat</Text>
+			<Text>Sliema</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VALLETTA_08">
-			<Text>Bormla</Text>
+			<Text>San Ġwann</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VALLETTA_09">
-			<Text>Sengelea</Text>
+			<Text>Naxxar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VALLETTA_10">
-			<Text>Birgu</Text>
+			<Text>Mdina</Text>
 		</Row>
 		<!-- Vatican City (vatican city) ok this doesn't make any sense but whatever -->
 		<Row Tag="TXT_KEY_CITYSTATE_VATICAN_CITY_DESCR">
-			<Text>Vatican</Text>
+			<Text>Le Vatican</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VATICAN_CITY_ADJECTIVE">
-			<Text>Vatican</Text>
+			<Text>vatican</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VATICAN_CITY_01">
-			<Text>Vatican City</Text>
+			<Text>Le Vatican</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VATICAN_CITY_02">
-			<Text>Saint Peter's Basilica</Text>
+			<Text>Basilique Saint-Pierre</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VATICAN_CITY_03">
-			<Text>Pinacotheca</Text>
+			<Text>Pinacothèque</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VATICAN_CITY_04">
-			<Text>Belvedere</Text>
+			<Text>Belvédère</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VATICAN_CITY_05">
-			<Text>Borgia Tower</Text>
+			<Text>Appartements Borgia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VATICAN_CITY_06">
 			<Text>Saint Charles</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VATICAN_CITY_07">
-			<Text>Santa Maria della Pieta</Text>
+			<Text>Sainte Marie de la Pitié</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VATICAN_CITY_08">
-			<Text>Campo Santo Teutonico</Text>
+			<Text>le Cimetière des Teutoniques</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VATICAN_CITY_09">
-			<Text>Gallinaro Tower</Text>
+			<Text>Tour de Gallinaro</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VATICAN_CITY_10">
-			<Text>Gate of Saint Pellegrino</Text>
+			<Text>Porte de Saint Pellegrino</Text>
 		</Row>
 		<!-- Wittenberg (germany - saxony anhalt) -->
 		<Row Tag="TXT_KEY_CITYSTATE_WITTENBERG_DESCR">
