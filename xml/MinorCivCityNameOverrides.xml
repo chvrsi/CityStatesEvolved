@@ -4278,13 +4278,13 @@
 		</Row>
 		<!-- Wittenberg (germany - saxony anhalt) -->
 		<Row Tag="TXT_KEY_CITYSTATE_WITTENBERG_DESCR">
-			<Text>Saxony-Anhalt</Text>
+			<Text>Saxe-Anhalt</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_WITTENBERG_ADJECTIVE">
-			<Text>Saxony</Text>
+			<Text>saxon-anhaltain</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_WITTENBERG_01">
-			<Text>Wittenberg</Text>
+			<Text>Wittemberg</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_WITTENBERG_02">
 			<Text>Abtsdorf</Text>
@@ -4315,13 +4315,13 @@
 		</Row>
 		<!-- Yerevan (armenia) -->
 		<Row Tag="TXT_KEY_CITYSTATE_YEREVAN_DESCR">
-			<Text>Armenia</Text>
+			<Text>Arménie</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_YEREVAN_ADJECTIVE">
-			<Text>Armenian</Text>
+			<Text>arménien</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_YEREVAN_01">
-			<Text>Yerevan</Text>
+			<Text>Erevan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_YEREVAN_02">
 			<Text>Gyumri</Text>
@@ -4330,13 +4330,13 @@
 			<Text>Vanadzor</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_YEREVAN_04">
-			<Text>Vagharshapat</Text>
+			<Text>Etchmiadzin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_YEREVAN_05">
-			<Text>Abovyan</Text>
+			<Text>Kapan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_YEREVAN_06">
-			<Text>Kapan</Text>
+			<Text>Abovyan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_YEREVAN_07">
 			<Text>Hrazdan</Text>
@@ -4345,17 +4345,17 @@
 			<Text>Armavir</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_YEREVAN_09">
-			<Text>Artashat</Text>
+			<Text>Goris</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_YEREVAN_10">
-			<Text>Ijevan</Text>
+			<Text>Artachat</Text>
 		</Row>
 		<!-- Zanzibar (tanzania) -->
 		<Row Tag="TXT_KEY_CITYSTATE_ZANZIBAR_DESCR">
-			<Text>Tanzania</Text>
+			<Text>Tanzanie</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ZANZIBAR_ADJECTIVE">
-			<Text>Tanzanian</Text>
+			<Text>tanzanien</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ZANZIBAR_01">
 			<Text>Zanzibar</Text>
@@ -4367,7 +4367,7 @@
 			<Text>Mwanza</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ZANZIBAR_04">
-			<Text>Dodoma</Text>
+			<Text>Arusha</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ZANZIBAR_05">
 			<Text>Mbeya</Text>
@@ -4379,94 +4379,94 @@
 			<Text>Tanga</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ZANZIBAR_08">
-			<Text>Kahama</Text>
+			<Text>Dodoma</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ZANZIBAR_09">
-			<Text>Tabora</Text>
+			<Text>Kigoma</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ZANZIBAR_10">
-			<Text>Kigoma</Text>
+			<Text>Moshi</Text>
 		</Row>
 		<!-- Zurich (switzerland - alemannic) -->
 		<Row Tag="TXT_KEY_CITYSTATE_ZURICH_DESCR">
-			<Text>Alemanni</Text>
+			<Text>Alémanie</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ZURICH_ADJECTIVE">
-			<Text>Alemannic</Text>
+			<Text>alémanique</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ZURICH_01">
 			<Text>Zurich</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ZURICH_02">
-			<Text>Geneva</Text>
+			<Text>Bâle</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ZURICH_03">
-			<Text>Basel</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_ZURICH_04">
-			<Text>Lausanne</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_ZURICH_05">
 			<Text>Bern</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_ZURICH_06">
-			<Text>Winterthur</Text>
+		<Row Tag="TXT_KEY_CITYSTATE_ZURICH_04">
+			<Text>Winterthour</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_ZURICH_07">
+		<Row Tag="TXT_KEY_CITYSTATE_ZURICH_05">
 			<Text>Lucerne</Text>
 		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ZURICH_06">
+			<Text>Saint-Gall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ZURICH_07">
+			<Text>Bienne</Text>
+		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ZURICH_08">
-			<Text>St. Gallen</Text>
+			<Text>Thoune</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ZURICH_09">
-			<Text>Lugano</Text>
+			<Text>Köniz</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_ZURICH_10">
-			<Text>Biel</Text>
+			<Text>Fribourg</Text>
 		</Row>
 		<!-- Samarkand (uzbekistan) -->
 		<Row Tag="TXT_KEY_CITYSTATE_SAMARKAND_DESCR">
-			<Text>Uzbekistan</Text>
+			<Text>Ouzbékistan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_SAMARKAND_ADJECTIVE">
-			<Text>Uzbek</Text>
+			<Text>ouzbek</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_SAMARKAND_01">
-			<Text>Samarqand</Text>
+			<Text>Samarcande</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_SAMARKAND_02">
-			<Text>Toshkent</Text>
+			<Text>Tachkent</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_SAMARKAND_03">
 			<Text>Namangan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_SAMARKAND_04">
-			<Text>Andijon</Text>
+			<Text>Andijan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_SAMARKAND_05">
-			<Text>Nukus</Text>
+			<Text>Boukhara</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_SAMARKAND_06">
-			<Text>Buxoro</Text>
+			<Text>Noukous</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_SAMARKAND_07">
-			<Text>Qarshi</Text>
+			<Text>Karchi</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_SAMARKAND_08">
-			<Text>Qu'qon</Text>
+			<Text>Kokand</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_SAMARKAND_09">
-			<Text>Farg'ona</Text>
+			<Text>Tchirtchik</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_SAMARKAND_10">
-			<Text>Marg'ilon</Text>
+			<Text>Ferghana</Text>
 		</Row>
 		<!-- Malacca (malaysia province - city order reversed) -->
 		<Row Tag="TXT_KEY_CITYSTATE_MALACCA_DESCR">
-			<Text>Malay Sultanate</Text>
+			<Text>Sultanat de Malacca</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MALACCA_ADJECTIVE">
-			<Text>Malay</Text>
+			<Text>malais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MALACCA_01">
 			<Text>Malacca</Text>
@@ -4500,53 +4500,53 @@
 		</Row>
 		<!-- Mogadishu (somalia) -->
 		<Row Tag="TXT_KEY_CITYSTATE_MOGADISHU_DESCR">
-			<Text>Somalia</Text>
+			<Text>Somalie</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MOGADISHU_ADJECTIVE">
-			<Text>Somalian</Text>
+			<Text>somalien</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MOGADISHU_01">
-			<Text>Mogadishu</Text>
+			<Text>Mogadiscio</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MOGADISHU_02">
 			<Text>Hargeisa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MOGADISHU_03">
-			<Text>Bosaso</Text>
+			<Text>Boosaaso</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MOGADISHU_04">
 			<Text>Borama</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MOGADISHU_05">
-			<Text>Galkayo</Text>
+			<Text>Merka</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MOGADISHU_06">
-			<Text>Lasanod</Text>
+			<Text>Kismaayo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MOGADISHU_07">
-			<Text>Merca</Text>
+			<Text>Beledweyne</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MOGADISHU_08">
-			<Text>Jamame</Text>
+			<Text>Jamaame</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MOGADISHU_09">
-			<Text>Borama</Text>
+			<Text>Baidoa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MOGADISHU_10">
-			<Text>Kismayo</Text>
+			<Text>Burao</Text>
 		</Row>
 		<!-- Byblos (phoenician city / lebanon) -->
 		<Row Tag="TXT_KEY_CITYSTATE_BYBLOS_DESCR">
-			<Text>Jubayl</Text>
+			<Text>Phénicie (Byblos)</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BYBLOS_ADJECTIVE">
-			<Text>Phoenician</Text>
+			<Text>phénicien</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BYBLOS_01">
 			<Text>Byblos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BYBLOS_02">
-			<Text>Beirut</Text>
+			<Text>Beyrouth</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BYBLOS_03">
 			<Text>Tripoli</Text>
@@ -4561,10 +4561,10 @@
 			<Text>Aley</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BYBLOS_07">
-			<Text>Tyre</Text>
+			<Text>Tyr</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BYBLOS_08">
-			<Text>Shheem</Text>
+			<Text>Chhim</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BYBLOS_09">
 			<Text>Baskinta</Text>
@@ -4574,25 +4574,25 @@
 		</Row>
 		<!-- Kyzyl  (russian federation - tyva republic) -->
 		<Row Tag="TXT_KEY_CITYSTATE_KYZYL_DESCR">
-			<Text>Tyva</Text>
+			<Text>Touva</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KYZYL_ADJECTIVE">
-			<Text>Tyvan</Text>
+			<Text>touvain</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KYZYL_01">
 			<Text>Kyzyl</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KYZYL_02">
-			<Text>Ak-Dovurak</Text>
+			<Text>Ak-Dovourak</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KYZYL_03">
-			<Text>Chadan</Text>
+			<Text>Tchadan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KYZYL_04">
-			<Text>Shagonar</Text>
+			<Text>Chagonar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KYZYL_05">
-			<Text>Turan</Text>
+			<Text>Touran</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KYZYL_06">
 			<Text>Khovu-Aksy</Text>
@@ -4601,7 +4601,7 @@
 			<Text>Kaa-Khem</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KYZYL_08">
-			<Text>Barun-Khemchiksky</Text>
+			<Text>Baryyn-Khyemchik</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KYZYL_09">
 			<Text>Kaa-Khemsky</Text>
@@ -4611,10 +4611,10 @@
 		</Row>
 		<!-- Ife (nigeria) -->
 		<Row Tag="TXT_KEY_CITYSTATE_IFE_DESCR">
-			<Text>Nigeria</Text>
+			<Text>Nigéria</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_IFE_ADJECTIVE">
-			<Text>Nigerian</Text>
+			<Text>nigérian</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_IFE_01">
 			<Text>Ife</Text>
@@ -4629,72 +4629,72 @@
 			<Text>Ibadan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_IFE_05">
-			<Text>Abuja</Text>
+			<Text>Benin City</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_IFE_06">
-			<Text>Kaduna</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_IFE_07">
 			<Text>Port Harcourt</Text>
 		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_IFE_07">
+			<Text>Jos</Text>
+		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_IFE_08">
-			<Text>Aba</Text>
+			<Text>Ilorin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_IFE_09">
-			<Text>Ogbomosho</Text>
+			<Text>Abuja</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_IFE_10">
-			<Text>Maiduguri</Text>
+			<Text>Kaduna</Text>
 		</Row>
 		<!-- Kiev (ukraine) -->
 		<Row Tag="TXT_KEY_CITYSTATE_KIEV_DESCR">
 			<Text>Ukraine</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KIEV_ADJECTIVE">
-			<Text>Ukrainian</Text>
+			<Text>ukrainien</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KIEV_01">
-			<Text>Kyiv</Text>
+			<Text>Kiev</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KIEV_02">
-			<Text>Karkiv</Text>
+			<Text>Kharkiv</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KIEV_03">
-			<Text>Dnipropetrovsk</Text>
+			<Text>Dnipro</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KIEV_04">
-			<Text>Odesa</Text>
+			<Text>Odessa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KIEV_05">
 			<Text>Donetsk</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KIEV_06">
-			<Text>Zaporizhia</Text>
+			<Text>Zaporijia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KIEV_07">
 			<Text>Lviv</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KIEV_08">
-			<Text>Kryvyi Rih</Text>
+			<Text>Kryvyï Rih</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KIEV_09">
-			<Text>Nova Kakhova</Text>
+			<Text>Mykolaïv</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KIEV_10">
-			<Text>Mykolaiv</Text>
+			<Text>Marioupol</Text>
 		</Row>
 		<!-- Buenos Aires (argentina) -->
 		<Row Tag="TXT_KEY_CITYSTATE_BUENOS_AIRES_DESCR">
-			<Text>Argentina</Text>
+			<Text>Argentine</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BUENOS_AIRES_ADJECTIVE">
-			<Text>Argentinian</Text>
+			<Text>argentin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BUENOS_AIRES_01">
 			<Text>Buenos Aires</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BUENOS_AIRES_02">
-			<Text>Cordoba</Text>
+			<Text>Córdoba</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BUENOS_AIRES_03">
 			<Text>Rosario</Text>
@@ -4703,7 +4703,7 @@
 			<Text>Mendoza</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BUENOS_AIRES_05">
-			<Text>San Miguel de Tucuman</Text>
+			<Text>San Miguel de Tucumán</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BUENOS_AIRES_06">
 			<Text>La Plata</Text>
@@ -4725,7 +4725,7 @@
 			<Text>M'banza-Kongo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MBANZA_KONGO_ADJECTIVE">
-			<Text>Kongolese</Text>
+			<Text>kongolais</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MBANZA_KONGO_01">
 			<Text>M'banza</Text>
@@ -4762,44 +4762,44 @@
 			<Text>Afghanistan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KABUL_ADJECTIVE">
-			<Text>Afghan</Text>
+			<Text>afghan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KABUL_01">
-			<Text>Kabul</Text>
+			<Text>Kaboul</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KABUL_02">
-			<Text>Kandahar</Text>
+			<Text>Mazar-e-Charif</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KABUL_03">
-			<Text>Herat</Text>
+			<Text>Kandahâr</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KABUL_04">
-			<Text>Mazar-i-Sharif</Text>
+			<Text>Hérat</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KABUL_05">
-			<Text>Kunduz</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_KABUL_06">
-			<Text>Taloqan</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_KABUL_07">
 			<Text>Jalalabad</Text>
 		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KABUL_06">
+			<Text>Lashkar Gah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KABUL_07">
+			<Text>Kondôz</Text>
+		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KABUL_08">
-			<Text>Puli Khumri</Text>
+			<Text>Taloqan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KABUL_09">
-			<Text>Charikar</Text>
+			<Text>Pol-e Khomri</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_KABUL_10">
 			<Text>Sheberghan</Text>
 		</Row>
 		<!-- Sofia (bulgaria) -->
 		<Row Tag="TXT_KEY_CITYSTATE_SOFIA_DESCR">
-			<Text>Bulgaria</Text>
+			<Text>Bulgarie</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_SOFIA_ADJECTIVE">
-			<Text>Bulgar</Text>
+			<Text>bulgare</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_SOFIA_01">
 			<Text>Sofia</Text>
@@ -4811,10 +4811,10 @@
 			<Text>Varna</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_SOFIA_04">
-			<Text>Burgas</Text>
+			<Text>Bourgas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_SOFIA_05">
-			<Text>Ruse</Text>
+			<Text>Roussé</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_SOFIA_06">
 			<Text>Stara Zagora</Text>
@@ -4826,17 +4826,17 @@
 			<Text>Sliven</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_SOFIA_09">
-			<Text>Dobrich</Text>
+			<Text>Dobritch</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_SOFIA_10">
-			<Text>Shumen</Text>
+			<Text>Choumen</Text>
 		</Row>
 		<!-- Ur (sumeria - city list taken from sumeria civ 4 city list, thx) breaking the rules here, not putting Ur first -->
 		<Row Tag="TXT_KEY_CITYSTATE_UR_DESCR">
-			<Text>Sumeria</Text>
+			<Text>Sumer</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_UR_ADJECTIVE">
-			<Text>Sumerian</Text>
+			<Text>sumérian</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_UR_01">
 			<Text>Uruk</Text>
@@ -4854,13 +4854,13 @@
 			<Text>Ur</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_UR_06">
-			<Text>Nibru</Text>
+			<Text>Nippur</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_UR_07">
 			<Text>Bad-Tibira</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_UR_08">
-			<Text>Zimbir</Text>
+			<Text>Sippar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_UR_09">
 			<Text>Shuruppak</Text>
@@ -4873,7 +4873,7 @@
 			<Text>Victoria</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MELBOURNE_ADJECTIVE">
-			<Text>Victorian</Text>
+			<Text>victorien</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MELBOURNE_01">
 			<Text>Melbourne</Text>
@@ -4888,35 +4888,35 @@
 			<Text>Bendigo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MELBOURNE_05">
-			<Text>Shepparton-Mooroopna</Text>
+			<Text>Wodonga</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MELBOURNE_06">
-			<Text>Melton</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_MELBOURNE_07">
-			<Text>Sunbury</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_MELBOURNE_08">
-			<Text>Pakenham</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_MELBOURNE_09">
 			<Text>Mildura</Text>
 		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MELBOURNE_07">
+			<Text>Shepparton-Mooroopna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MELBOURNE_08">
+			<Text>Traralgon-Morwell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MELBOURNE_09">
+			<Text>Warragul-Drouin</Text>
+		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_MELBOURNE_10">
-			<Text>Wodonga</Text>
+			<Text>Warrnambool</Text>
 		</Row>
 		<!-- Bogota (columbia) -->
 		<Row Tag="TXT_KEY_CITYSTATE_BOGOTA_DESCR">
-			<Text>Columbia</Text>
+			<Text>Colombie</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BOGOTA_ADJECTIVE">
-			<Text>Columbian</Text>
+			<Text>colombien</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BOGOTA_01">
 			<Text>Bogota</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BOGOTA_02">
-			<Text>Medellin</Text>
+			<Text>Medellín</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BOGOTA_03">
 			<Text>Cali</Text>
@@ -4925,29 +4925,29 @@
 			<Text>Barranquilla</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BOGOTA_05">
-			<Text>Catagena</Text>
+			<Text>Carthagène des Indes</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BOGOTA_06">
-			<Text>Cucuta</Text>
+			<Text>Cúcuta</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BOGOTA_07">
 			<Text>Bucaramanga</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BOGOTA_08">
-			<Text>Ibague</Text>
+			<Text>Pereira</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BOGOTA_09">
-			<Text>Soledad</Text>
+			<Text>Ibagué</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_BOGOTA_10">
-			<Text>Pereira</Text>
+			<Text>Soledad</Text>
 		</Row>
 		<!-- Vilnius (lithuania) -->
 		<Row Tag="TXT_KEY_CITYSTATE_VILNIUS_DESCR">
-			<Text>Lithuania</Text>
+			<Text>Lituanie</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VILNIUS_ADJECTIVE">
-			<Text>Lithuanian</Text>
+			<Text>lituanien</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VILNIUS_01">
 			<Text>Vilnius</Text>
@@ -4956,22 +4956,22 @@
 			<Text>Kaunas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VILNIUS_03">
-			<Text>Klaipeda</Text>
+			<Text>Klaipéda</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VILNIUS_04">
-			<Text>Siauliai</Text>
+			<Text>Šiauliai</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VILNIUS_05">
-			<Text>Panevezys</Text>
+			<Text>Panevėžys</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VILNIUS_06">
 			<Text>Alytus</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VILNIUS_07">
-			<Text>Marijampole</Text>
+			<Text>Marijampolė</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VILNIUS_08">
-			<Text>Mazeikiai</Text>
+			<Text>Mažeikiai</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITYSTATE_VILNIUS_09">
 			<Text>Jonava</Text>
